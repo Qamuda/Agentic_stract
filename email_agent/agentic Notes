@@ -1,0 +1,166 @@
+## Project Note #1 — Model Behavior vs Task Requirements
+
+### Observation
+Using qwen3:8b on a local CPU produced correct summaries but took a long time:
+Time: ~50–100 seconds for a very short email.
+#### Example output:
+    Main Topic: Weekly Team Meeting Rescheduling
+    Action Required: Update calendars
+    Deadline: Friday at 2 PM
+##### Evidence
+    The Ollama response metadata showed:
+        thinking='Okay, let's tackle this email summarization...'
+
+    and:
+        eval_count=212
+        eval_duration≈49 seconds
+
+    This indicates the model generated a substantial internal reasoning process before producing the final answer.
+
+### What the Model Is Doing
+    ####Qwen isn't simply extracting information.
+        Instead, it appears to be:
+            Reading the email.
+            Analyzing the task.
+            Generating a chain of reasoning.
+            Verifying its interpretation.
+            Producing the final summary.
+
+    Conceptually doing:
+        Email
+            ↓
+        Reasoning Process
+            ↓
+        Summary
+
+    rather than needing it to:
+        Email
+          ↓
+        Summary
+
+Why This Matters
+For an assistant like ARIA:
+    User asks complex question
+          ↓
+    Reasoning is valuable
+          ↓
+    Better answer
+
+The thinking process may be worth the extra time but for Email Agent:
+    Email
+        ↓
+    Extract key details
+        ↓
+    Summary
+
+Deep reasoning usually provides little additional value.The task is
+primarily information extraction, not problem solving.
+Engineering Lesson
+
+A model can be technically correct but operationally inefficient.
+
+The question is not: Can the model do the task?
+
+The question is: Can the model do the task fast efficiently enough to be useful?
+
+Current Hypothesis:
+A significant portion of processing time is being spent on model reasoning ("thinking")
+ rather than on the summary itself.
+
+Potential future optimizations:
+
+Reduce or disable reasoning behavior if supported. Use a smaller model for summarization tasks.
+Batch multiple emails into a single request. Reserve larger reasoning-focused models for tasks that actually require reasoning.
+
+Project Impact:
+This was the first indication that:
+Best model ≠ Best deployment model
+For Email Agent, speed, consistency, and throughput may be more
+important than maximum reasoning capability.
+
+## Project Note #2
+
+Benchmark Results
+
+gemma3:4b processed test email in ~17s.
+qwen3:8b processed same email in ~87s.
+Qwen generated extensive reasoning (thinking).
+Gemma returned direct answers with no visible reasoning.
+
+Lesson
+
+For Email Agent v1, smaller models may provide significantly better throughput while maintaining acceptable summary quality.
+
+Next Action
+
+Test several real emails and compare:
+
+Speed
+Summary quality
+Consistency
+
+before selecting the default model.
+
+Project Note #3 — Model Selection Complete
+
+Observation
+
+Benchmarked gemma3:4b vs qwen3:8b on multiple email types.
+Summary quality was comparable.
+Qwen consistently took 10–15x longer.
+
+Results
+
+Gemma: ~10–16 sec/email
+Qwen: ~90–150 sec/email
+
+Decision
+
+Use gemma3:4b as the default summarization model for Email Agent v1.
+Reserve qwen3:8b for future ARIA tasks requiring deeper reasoning.
+
+Lesson
+
+Benchmarking should stop once a clear winner emerges.
+Development effort is better spent advancing project functionality than continuing tests with obvious outcomes.
+
+Next Step
+
+Return focus to Outlook authentication and email retrieval.
+
+
+Project note #4 (short version 😆):
+
+Real-world email data is messy.
+
+Not every email follows standards.
+Date formats vary.
+Timezone information may be missing.
+Code should skip malformed emails rather than fail.
+
+This is exactly the kind of thing toy test emails never reveal but real inboxes immediately expose.
+
+Try the .timestamp() approach and let's see if we can get a properly sorted "latest 10 emails" list. If that works,
+we're one step away from feeding real inbox messages into Gemma. 🚀
+
+## Final Project Notes
+
+v2 Changes:
+- Added watchdog to scan on new email arrival
+- Only scan emails from last 3 days
+- Fixed date parsing for weird formats
+- Added logging to email_agent.log
+- Writes report to phish_report.md
+- Prepared for splitting into modules (email_utils.py, phish_detector.py)
+
+What we learned:
+- Thunderbird mbox format is quirky but readable
+- Gemma 3:4B is slow on CPU for large scans
+- Need deduplication logic for repeated scans
+- Watchdog works great for real-time triggers
+
+Improvements:
+- Split into modules (utils, detector, main)
+- Add config file for paths/models/settings
+- Add delete function for high-scoring emails
+- Hook into ARIA as a tool

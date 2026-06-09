@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+processed.json
+email_summary.md
+suspicious_emails.md
+.idea/
+config.json
