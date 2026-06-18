@@ -78,7 +78,7 @@ def extract_email_data(msg):
             "subject": subject,
             "from": from_addr,
             "date": date_str,
-            "body": body[:1000] # Limit body to 1000 chars for Ollama
+            "body": body[:600] # Limit body to 1000 chars for Ollama
         }
     except Exception as e:
         logging.error(f"Failed to extract email data: {e}")
@@ -114,6 +114,7 @@ Date: {email_data['date']}
 Body: {email_data['body']}
 
 Summary:"""
+
 
     try:
         response = requests.post(OLLAMA_URL, json={

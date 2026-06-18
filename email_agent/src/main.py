@@ -17,7 +17,7 @@ SUMMARY_FILE = "summary.md"
 SUSPICIOUS_FILE = "suspicious.md"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "gemma3:1b"
-DAYS_BACK = 3  # You said you're changing this to 3
+DAYS_BACK = 2  # You said you're changing this to 3
 
 # === LOGGING ===
 logging.basicConfig(
@@ -34,7 +34,7 @@ def parse_email_date(date_str):
     if not date_str:
         return None
 
-    # Standard email parser
+    # Standard email format
     try:
         dt = parsedate_to_datetime(date_str)
 
@@ -44,14 +44,46 @@ def parse_email_date(date_str):
     except Exception:
         pass
 
-    # Flexible fallback parser
+    # Thunderbird weird formats
+    try:
+        dt = datetime.strptime(
+            date_str,
+            "%Y.%m.%d-%H.%M.%S"
+        )
+
+        return dt.replace(
+            tzinfo=timezone.utc
+        )
+
+    except Exception:
+        pass
+
+    # Another weird Thunderbird format
+    try:
+        dt = datetime.strptime(
+            date_str,
+            "%Y.%m.%d.%H.%M"
+        )
+
+        return dt.replace(
+            tzinfo=timezone.utc
+        )
+
+    except Exception:
+        pass
+
+    # Flexible parser fallback
     try:
         dt = parser.parse(date_str)
 
         if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+            dt = dt.replace(
+                tzinfo=timezone.utc
+            )
 
-        return dt.astimezone(timezone.utc)
+        return dt.astimezone(
+            timezone.utc
+        )
 
     except Exception:
         logging.warning(
@@ -114,14 +146,18 @@ def extract_email_data(msg):
             if payload:
                 body = payload.decode('utf-8', errors='ignore')
 
+        if len(body) > 600:
+            body = body[:300] + "\n...\n" + body[-300:]
+
         return {
             "subject": subject.strip(),
             "from": from_addr.strip(),
             "date": date_str.strip(),
-            "body": body[:1000]
+            "body": body
         }
     except Exception as e:
         logging.error(f"Failed to extract email data: {e}")
+
         return None
 
 
@@ -139,22 +175,93 @@ def score_email(email_data):
 
     return score, reasons
 
+def should_skip_llm(email_data):
+    subject = email_data["subject"].lower()
+    body = email_data["body"]
+
+    # Very short emails
+    if len(body.strip()) < 50:
+        return True, "Very little text content"
+
+    # Mostly links
+    link_count = body.count("http")
+    if link_count > 10:
+        return True, "Link-heavy marketing email"
+
+    # Wallpaper emails
+    wallpaper_keywords = [
+        "wallpaper",
+        "one piece",
+        "anime wallpaper"
+    ]
+
+    if any(k in subject for k in wallpaper_keywords):
+        return True, "Wallpaper email"
+
+    # Store promotions
+    promo_keywords = [
+        "new arrivals",
+        "shop now",
+        "limited time",
+        "sale",
+        "collection"
+    ]
+
+    if any(k in subject for k in promo_keywords):
+        return True, "Promotional email"
+
+    if "pinterest" in email_data["from"].lower():
+        return True, "Pinterest"
+
+    if "bestbuy" in email_data["from"].lower():
+        return True, "Retail promotion"
+
+    return False, None
+
 
 def query_gemma(email_data):
 
-    prompt = f"""Summarize this email in 3 sentence. What should the user do, if anything?
+    message = f"""
+You are an email classifier.
 
+Return ONLY this exact format:
+
+Subject: <email subject>
+Summary:
+<Mention the most important products,
+topics, offers, or announcements
+mentioned in the email.
+Be decisive and specific.
+
+Write 2-4 concise sentences describing the most important points.>
+
+Action Required: <comma-separated list of required actions, or "None">
+Deadline: <explicit date/time IF present; otherwise "None">
+Priority: <High, Medium, Low>
+
+Rules:
+- Use the email date only to understand relative time words like today, tomorrow, this week, or next week.
+- Do not calculate future dates unless they are explicitly stated.
+- If there is no clear deadline, write "None".
+- If the email does not require the user to do anything, write "None" for Action Required.
+- Choose the earliest required deadline if more than one appears.
+- High = interviews, school deadlines, financial alerts, account/security issues, urgent requests, anything due within 24 hours.
+- Medium = meetings, project updates, team communications, requests with a clear deadline beyond 24 hours.
+- Low = newsletters, promotions, marketing, social notifications, informational emails with no action.
+- Keep responses concise.
+- Do not explain reasoning.
+- Do not add extra text.
+
+Email Date: {email_data['date']}
 From: {email_data['from']}
 Subject: {email_data['subject']}
-Date: {email_data['date']}
 Body: {email_data['body']}
-
-two sentence summary:"""
+"""
     start1 = time.time()
     try:
         response = requests.post(OLLAMA_URL, json={
             "model": MODEL,
-            "prompt": prompt,
+            "prompt": message,
             "stream": False
         }, timeout=150)
 
@@ -175,8 +282,12 @@ two sentence summary:"""
 
 
 def prepend_to_md(filepath, entries, header=""):
-    """NEW: Prepends entries so newest emails appear at top"""
-    os.makedirs(os.path.dirname(os.path.abspath(filepath)), exist_ok=True)
+    """NEW: Prepends entries as newest emails appear at top"""
+    print(f"Writing {len(entries)} entries to {filepath}")
+    directory = os.path.dirname(filepath)
+
+    if directory:
+        os.makedirs(directory, exist_ok=True)
 
     existing_content = ""
     file_exists = os.path.exists(filepath)
@@ -203,12 +314,12 @@ def prepend_to_md(filepath, entries, header=""):
 
 
 def scan_recent_email():
-
+    skipped_llm = 0
     parsed_dates = 0
     failed_dates = 0
 
     start_time = time.time()
-    print("Starting email scan...")
+    print(f"Starting email scan, using Model: {MODEL}")
     processed = load_processed()
     processed_ids = {p['id'] for p in processed}
     print(f"Already processed {len(processed_ids)} emails before")
@@ -229,13 +340,16 @@ def scan_recent_email():
             continue
 
         email_id = make_email_id(email_data)
+
         if email_id in processed_ids:
             skipped += 1
             continue
 
         email_date = parse_email_date(email_data['date'])
-        if not email_date:
-
+        if email_date:
+            parsed_dates += 1
+        else:
+            failed_dates += 1
             continue
 
         if email_date > cutoff_date:
@@ -250,11 +364,7 @@ def scan_recent_email():
 
     print(f"Parsed Dates: {parsed_dates}")
     print(f"Failed Dates: {failed_dates}")
-    print(f"Found {len(new_emails)} new emails to process from the last {DAYS_BACK} days.")
-
-    if not new_emails:
-        print("Nothing new to do.")
-        return
+    #print(f"Found {len(new_emails)} new emails to process from the last {DAYS_BACK} days.")
 
     # Sort newest first before processing
     new_emails.sort(key=lambda x: x['date_obj'], reverse=True)
@@ -266,43 +376,90 @@ def scan_recent_email():
 
     for i, email_item in enumerate(new_emails):
         email_start = time.time()
-        email_data = email_item['data']
+
+        email_data = email_item["data"]
+
         print(f"\nProcessing {i + 1}/{total}: {email_data['subject'][:60]}")
 
+        # ----------------------------
+        # Phishing Score
+        # ----------------------------
         score, reasons = score_email(email_data)
-        verdict = query_gemma(email_data)
 
+        # ----------------------------
+        # Email Stats
+        # ----------------------------
+        body_length = len(email_data["body"])
+        print(f"Body Length: {body_length}")
 
+        # ----------------------------
+        # LLM Decision
+        # ----------------------------
+        skip, reason = should_skip_llm(email_data)
+
+        if skip:
+            verdict = f"Skipped LLM - {reason}"
+            skipped_llm += 1
+            print(f"LLM Skipped: {reason}")
+
+        else:
+            verdict = query_gemma(email_data)
+
+        # ----------------------------
+        # Build Result Entry
+        # ----------------------------
         entry = {
             "score": score,
-            "subject": email_data['subject'],
-            "from": email_data['from'],
-            "date": email_data['date'],
+            "subject": email_data["subject"],
+            "from": email_data["from"],
+            "date": email_data["date"],
             "reasons": reasons,
             "verdict": verdict
         }
 
+        # ----------------------------
+        # Sort Clean vs Suspicious
+        # ----------------------------
         if score >= 4:
+
             suspicious_entries.append(entry)
-            logging.warning(f"FLAGGED: {score}/10 - {email_data['subject'][:50]}")
+
+            logging.warning(
+                f"FLAGGED: {score}/10 - {email_data['subject'][:50]}"
+            )
+
             print(f"⚠️ FLAGGED: {score}/10")
+
         else:
+
             summary_entries.append(entry)
-            logging.info(f"CLEAN: {score}/10 - {email_data['subject'][:50]}")
+
+            logging.info(
+                f"CLEAN: {score}/10 - {email_data['subject'][:50]}"
+            )
+
             print(f"✓ CLEAN: {score}/10")
 
-        email_end = time.time()
-        print(f"Time: {email_end - email_start:.2f}s")
-
+        # ----------------------------
+        # Cache Processed Email
+        # ----------------------------
         processed.append({
-            "id": email_item['id'],
-            "subject": email_data['subject'],
-            "date": email_data['date'],
+            "id": email_item["id"],
+            "subject": email_data["subject"],
+            "date": email_data["date"],
             "processed_at": datetime.now(timezone.utc).isoformat()
         })
 
+        email_end = time.time()
 
-    # Prepend all at once so newest stays on top
+        print(f"Time: {email_end - email_start:.2f}s")
+
+    print(f"Summary Entries: {len(summary_entries)}")
+    print(f"Suspicious Entries: {len(suspicious_entries)}")
+    save_processed(processed)
+
+
+    # Prepend all at once as newest stays on top
     if summary_entries:
         prepend_to_md(SUMMARY_FILE, summary_entries, summary_header if not os.path.exists(SUMMARY_FILE) else "")
     if suspicious_entries:
@@ -310,8 +467,8 @@ def scan_recent_email():
 
     end_time = time.time()
 
-    save_processed(processed)
     print(f"\n📂 Done!, took ⏱ {end_time - start_time:.2f} secs and {total} emails processed.")
+    print(f"🤖 LLM Calls Skipped: {skipped_llm}")
     print(f"💾 Total in cache: {len(processed)}")
     print(f"📝 Check {SUMMARY_FILE} and {SUSPICIOUS_FILE}")
 

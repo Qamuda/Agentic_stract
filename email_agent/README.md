@@ -36,6 +36,46 @@ Everything runs on your machine — **no cloud, no telemetry, no API keys needed
 | Gemma 3 4B  | 4B   | Good balance              |
 | Qwen3 8B    | 8B   | Highest quality summaries |
 
+
+---
+## 📊 Performance Notes
+
+
+Gemma 3 1B
+
+Selected because it offers the best balance between speed and usefulness during local testing.
+
+Typical Processing Times
+Email Size	Average Time
+Short email	3–8 seconds
+~600 chars	10–20 seconds
+Complex newsletters	Can vary significantly
+Optimizations Implemented
+Body truncation before LLM processing
+Processed email caching
+Promotional email skipping
+Low-content email skipping
+Ollama request timeout protection
+🚧 Known Limitations
+Markdown Report Generation
+
+Under investigation:
+
+Processed emails are correctly stored in processed_emails.json
+Some testing runs did not update summary.md as expected
+Initial file path issue was identified and corrected
+Additional validation is ongoing
+Phishing Detection
+
+Current phishing scoring is rule-based and intended as a first-pass warning system.
+
+Future versions may incorporate:
+
+Reputation analysis
+Sender profiling
+ML-assisted classification
+
+
 ---
 
 ## ⚙️ Current Workflow
@@ -70,27 +110,48 @@ Ollama	Local LLM inference
 Thunderbird	Mailbox data source
 Markdown	Report format
 JSON	Processed-email cache
+
+
 🚧 Roadmap
-✅ Phase 1 — Foundation (done)
+✅ Phase 1 — Foundation (mostly complete)
+
 Email extraction from Thunderbird
-
 Local summarization via Ollama
-
 Rule-based phishing scoring
+Processed-email cache
+Date parsing improvements for Thunderbird formats
+LLM skip logic for promotional and low-content emails
+Runtime optimization and timeout protection
+
+
+🟡 Current Status
+The Email Agent is operational and processing recent Thunderbird emails successfully.
+Processed-email caching is working across runs, and recent tests show that previously processed emails are being skipped correctly.
+The main remaining V1 work is around markdown report behavior, ordering consistency, and validating Thunderbird-specific date semantics.
 
 🚧 Phase 2 — Intelligence Upgrades (in progress)
-Live mailbox monitoring (watch for new emails)
-
-Improved phishing detection (heuristic + ML)
-
+Live mailbox monitoring
+New-email polling mode
+Improved phishing detection
+Structured action item extraction
+Better priority classification
+Sender reputation analysis
 Multi-model benchmarking and selection
-
-🔮 Phase 3 — Integration
-Connect with ARIA (Adaptive Routine Intelligence Assistant)
-
-Local vector search for historical email lookup
-
-Behavioral intelligence workflows (learn from email habits)
+Recent Improvements
+Switched from Gemma 3 4B to Gemma 3 1B for significantly faster processing
+Added processed email cache to prevent duplicate summarization
+Improved prompt structure for:
+Summary
+Action Required
+Deadline
+Priority
+Added Thunderbird-specific date parsing support
+Added LLM skip detection for:
+Wallpapers
+Promotional emails
+Low-text emails
+Added Ollama request timeout protection
+Added body truncation optimization to reduce inference time
 
 📌 Status
 🟡 Work in progress

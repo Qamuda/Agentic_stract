@@ -143,9 +143,26 @@ This is exactly the kind of thing toy test emails never reveal but real inboxes 
 Try the .timestamp() approach and let's see if we can get a properly sorted "latest 10 emails" list. If that works,
 we're one step away from feeding real inbox messages into Gemma. 🚀
 
-## Final Project Notes
+## Final Project Notes: V1
+| Model    | Emails  | Total Time | Approx       |
+| -------- | ------- | ---------- | ------------ |
+| Gemma 1B | 85      | 1947s      | ~22.9s/email |
+| Gemma 4B | 85      | TBD        | 475 sec/emais|
+
+Prompt chnages:
+Prompt V1
+Gemma 1B
+Gemma 4B
+
+vs
+
+Prompt V2
+Gemma 1B
+Gemma 4B
+
 
 v2 Changes:
+- Using Gemma3:1b
 - Added watchdog to scan on new email arrival
 - Only scan emails from last 3 days
 - Fixed date parsing for weird formats
