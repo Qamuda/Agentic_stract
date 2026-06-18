@@ -1,591 +1,645 @@
 [
   {
-    "id": "de97f8b9a2c6205ac1478d28cd43f350",
-    "subject": "Meet Glitch",
-    "date": "Tue, 16 Jun 2026 22:30:11 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:44:27.629495+00:00"
-  },
-  {
-    "id": "11d96a9d28e69dfad1c636af83ae5d76",
-    "subject": "Ko-We-U, you have a new Patient Portal message",
-    "date": "Tue, 16 Jun 2026 22:21:09 +0000",
-    "processed_at": "2026-06-16T22:44:35.043903+00:00"
-  },
-  {
-    "id": "95cb44779b740f21f75fe96ec191a11e",
-    "subject": "Support Gaza\u2019s children and receive our exclusive jersey",
-    "date": "Tue, 16 Jun 2026 15:15:19 -0600",
-    "processed_at": "2026-06-16T22:44:44.295997+00:00"
-  },
-  {
-    "id": "7a87e2adb4cd085c2a837b9ec31e3afc",
-    "subject": "You choose a designer cologne, get it FREE.",
-    "date": "Tue, 16 Jun 2026 20:00:57 +0000",
-    "processed_at": "2026-06-16T22:44:53.014959+00:00"
-  },
-  {
-    "id": "87b4477fb19187710630159c141ba163",
-    "subject": "A Team Member has offered a shift",
-    "date": "Tue, 16 Jun 2026 18:52:23 +0000",
-    "processed_at": "2026-06-16T22:45:01.339744+00:00"
-  },
-  {
-    "id": "c95883c1955979850779c02e614921eb",
-    "subject": "Benga Niger Update: Bricks Done, $5K Needed for the Roof \u2600\ufe0f",
-    "date": "Tue, 16 Jun 2026 18:30:31 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:45:11.175584+00:00"
-  },
-  {
-    "id": "08cd47e87390bed8b90eff072e92b36f",
-    "subject": "MOST WANTED: BAPE, Godspeed, Billionaire Boys Club and More",
-    "date": "Tue, 16 Jun 2026 18:08:53 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:45:20.512228+00:00"
-  },
-  {
-    "id": "f5dcd33221f4f081b173666f762fa027",
-    "subject": "Qowiyu, check your latest offers \ud83d\udc40",
-    "date": "Tue, 16 Jun 2026 17:48:28 +0000",
-    "processed_at": "2026-06-16T22:45:26.893620+00:00"
-  },
-  {
-    "id": "610d05adc1422b787b88e20b78e34696",
-    "subject": "NEW RELEASE: Paul Rodriguez x Nike SB Air Zoom Low 'Dodgers'",
-    "date": "Tue, 16 Jun 2026 17:47:14 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:45:40.040210+00:00"
-  },
-  {
-    "id": "1e08ccc543924fcaf0cb90987d17b200",
-    "subject": "You're invited: Join the Nike Feedback Lab",
-    "date": "Tue, 16 Jun 2026 17:36:28 +0000",
-    "processed_at": "2026-06-16T22:45:40.040764+00:00"
-  },
-  {
-    "id": "016d442c04242156553e5dbf051629a5",
-    "subject": "Limited-edition socks are here \ud83c\uddfa\ud83c\uddf8",
-    "date": "Tue, 16 Jun 2026 17:31:02 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:45:49.388830+00:00"
-  },
-  {
-    "id": "7c52a79a670a26691027dad199d5cda6",
-    "subject": "Space Age Love Fest, DeFi's Big Chance And An Attempt To Save Humanity",
-    "date": "Tue, 16 Jun 2026 17:28:20 +0000",
-    "processed_at": "2026-06-16T22:46:02.606828+00:00"
-  },
-  {
-    "id": "791542c7fb3739295574e06e9e75ae0e",
-    "subject": "One Piece Crew guide",
-    "date": "Tue, 16 Jun 2026 17:26:15 +0000",
-    "processed_at": "2026-06-16T22:46:02.607381+00:00"
-  },
-  {
-    "id": "8fb2c6ac0ef00e9104b3b3db5bde4f02",
-    "subject": "The niche isn't saturated.",
-    "date": "Tue, 16 Jun 2026 15:51:03 +0000",
-    "processed_at": "2026-06-16T22:46:11.268056+00:00"
-  },
-  {
-    "id": "eb0b097fadd3c01a08392f4964fddf97",
-    "subject": "Kick in a win: $6.99 Footlong \ud83e\udd45",
-    "date": "Tue, 16 Jun 2026 15:01:20 +0000",
-    "processed_at": "2026-06-16T22:46:20.234917+00:00"
-  },
-  {
-    "id": "af11af0885edb280855c04729c70c433",
-    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
-    "date": "Tue, 16 Jun 2026 15:01:17 +0000",
-    "processed_at": "2026-06-16T22:46:28.182809+00:00"
-  },
-  {
-    "id": "4596bf7545db85999f2b4233655bd6d9",
-    "subject": "\u26be\ufe0f FREE BASEBALL PLAYS",
-    "date": "Tue, 16 Jun 2026 14:55:19 +0000",
-    "processed_at": "2026-06-16T22:46:37.712279+00:00"
-  },
-  {
-    "id": "c75a200ebb528e6a743fbd4a808c67b0",
-    "subject": "Your taste inspires us",
-    "date": "Tue, 16 Jun 2026 14:26:24 +0000",
-    "processed_at": "2026-06-16T22:46:37.712913+00:00"
-  },
-  {
-    "id": "14928be4469dd79eb7e79190f8ca7ffe",
-    "subject": "$0 Delivery Fee on your shopping list",
-    "date": "Tue, 16 Jun 2026 13:59:00 +0000",
-    "processed_at": "2026-06-16T22:46:48.433438+00:00"
-  },
-  {
-    "id": "9707995a3eddc50c41c540b844b90513",
-    "subject": "You bought $4.81 of Microsoft",
-    "date": "Tue, 16 Jun 2026 13:31:03 +0000",
-    "processed_at": "2026-06-16T22:46:57.340210+00:00"
-  },
-  {
-    "id": "029b856ff88f4c91f7a1f051d13f878f",
-    "subject": "\ud83d\udd25 $5.99 Favorite sandwich reward \ud83d\udd25",
-    "date": "Tue, 16 Jun 2026 13:29:37 +0000",
-    "processed_at": "2026-06-16T22:47:06.506027+00:00"
-  },
-  {
-    "id": "852dcf779fd72e41fb7d7b4985c145b6",
-    "subject": "Invite friends\u2014you can both get a bonus \ud83d\udcb0",
-    "date": "Tue, 16 Jun 2026 13:06:40 +0000",
-    "processed_at": "2026-06-16T22:47:16.610474+00:00"
-  },
-  {
-    "id": "d8300bb0972ed9a8395e90e194a9e2a6",
-    "subject": "What are we getting him this year? \ud83e\udd14",
-    "date": "Tue, 16 Jun 2026 12:30:18 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:47:24.176131+00:00"
-  },
-  {
-    "id": "c32eb431bbbe6071f53e7309029bb3fc",
-    "subject": "Sugar Loaf Weekly Free Plays!",
-    "date": "Tue, 16 Jun 2026 11:51:13 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:47:33.962220+00:00"
-  },
-  {
-    "id": "e4b107df5dbc8ec049ef45af23d49bfe",
-    "subject": "Simply. AMAZING. It's time for our Father's Day deals",
-    "date": "Tue, 16 Jun 2026 07:05:22 -0400 (EDT)",
-    "processed_at": "2026-06-16T22:47:33.962748+00:00"
-  },
-  {
-    "id": "9b5334892518a9679683092ee7df6698",
-    "subject": "The Morning: Will the deal work?",
-    "date": "Tue, 16 Jun 2026 10:28:43 +0000",
-    "processed_at": "2026-06-16T22:47:44.608672+00:00"
-  },
-  {
-    "id": "07f795a6bf9a73b79522cfbb0731fae1",
-    "subject": "Anthropic's superpower \ud83e\udd16, Roku acquired \ud83d\udcb0, agentic code review \ud83d\udc68\u200d\ud83d\udcbb",
-    "date": "Tue, 16 Jun 2026 10:21:21 +0000",
-    "processed_at": "2026-06-16T22:48:03.826969+00:00"
-  },
-  {
-    "id": "f6f775a9cf7b8ce5f4c3aca77cf40d0a",
-    "subject": "Summer\u2019s arrived & so has your ride",
-    "date": "Mon, 15 Jun 2026 22:41:59 -0600",
-    "processed_at": "2026-06-16T22:48:18.947983+00:00"
-  },
-  {
-    "id": "d93492df8781746c1cda3e9a578951b5",
-    "subject": "One Piece Fanart guide",
-    "date": "Tue, 16 Jun 2026 02:26:23 +0000",
-    "processed_at": "2026-06-16T22:48:18.948729+00:00"
-  },
-  {
-    "id": "447eb855a80f37aa3051e8b394659ed7",
-    "subject": "A Team Member has offered a shift",
-    "date": "Tue, 16 Jun 2026 02:20:50 +0000",
-    "processed_at": "2026-06-16T22:48:26.105655+00:00"
-  },
-  {
-    "id": "b92812246942d4510bed96c94b2feeb4",
-    "subject": "Qowiyu, 15% OFF Deals + Kits ends tonight",
-    "date": "Tue, 16 Jun 2026 00:23:07 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:48:37.513910+00:00"
-  },
-  {
-    "id": "84e9a4c1daf423d0b9441bfb8e06832f",
-    "subject": "You spent $14.95 at Lyft",
-    "date": "Mon, 15 Jun 2026 23:08:09 +0000",
-    "processed_at": "2026-06-16T22:48:37.514479+00:00"
-  },
-  {
-    "id": "2bd2ac43810a928bab91fdb137781378",
-    "subject": "Uncategorized transaction detected",
-    "date": "Mon, 15 Jun 2026 22:38:47 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:48:45.325529+00:00"
-  },
-  {
-    "id": "edfec6b1b9c3253f69619ad59138628e",
-    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
-    "date": "Mon, 15 Jun 2026 22:01:11 +0000",
-    "processed_at": "2026-06-16T22:48:59.236242+00:00"
-  },
-  {
-    "id": "29fe907af43fd4c12ff2de23cddf5451",
-    "subject": "Josiah Queen/WWE Summer Tour/Gary Allan",
-    "date": "Mon, 15 Jun 2026 21:24:41 +0000",
-    "processed_at": "2026-06-16T22:49:10.965914+00:00"
-  },
-  {
-    "id": "09b8e790b4ec3ffde9e47c3266ef3230",
-    "subject": "You spent $11.17 at Al Hamawi Roastery O",
-    "date": "Mon, 15 Jun 2026 20:25:25 +0000",
-    "processed_at": "2026-06-16T22:49:10.966520+00:00"
-  },
-  {
-    "id": "7a3d9db3af2059c15242e51db1de4991",
-    "subject": "You spent $11.07 at Mochii Donut Orland Park",
-    "date": "Mon, 15 Jun 2026 19:43:42 +0000",
-    "processed_at": "2026-06-16T22:49:10.967044+00:00"
-  },
-  {
-    "id": "84a4c62b4b72b992d6aa20d6aeb3d2b2",
-    "subject": "Cash App Complaint [a1m-9565510-Pn00000S1WnK]",
-    "date": "Mon, 15 Jun 2026 19:26:32 +0000 (GMT)",
-    "processed_at": "2026-06-16T22:49:23.470852+00:00"
-  },
-  {
-    "id": "964d67f2730436a2a9e66f607f6dff90",
-    "subject": "You borrowed $100",
-    "date": "Mon, 15 Jun 2026 18:59:27 +0000",
-    "processed_at": "2026-06-16T22:49:29.294836+00:00"
-  },
-  {
-    "id": "2d66fdfa664615ea36cafa02588cde2a",
-    "subject": "Up to 50% off at Sephora \ud83d\udc84",
-    "date": "Mon, 15 Jun 2026 18:46:25 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:49:51.084971+00:00"
-  },
-  {
-    "id": "f79693a3db0d22cb8bd3b7a583bf845d",
+    "id": "fc946e9400a64b381e54a41cb1698908",
     "subject": "Ventra Mobile Application - Order Receipt",
     "date": "Mon, 15 Jun 2026 13:44:43 -0500",
-    "processed_at": "2026-06-16T22:49:59.681505+00:00"
+    "processed_at": "2026-06-18T18:57:45.329780+00:00"
   },
   {
-    "id": "cec41cd2904cf6ee8ccf97be333ee66b",
-    "subject": "Obsessed",
-    "date": "Mon, 15 Jun 2026 17:33:06 +0000",
-    "processed_at": "2026-06-16T22:49:59.682142+00:00"
+    "id": "6e3791012ba21f9b94cf72da064504d8",
+    "subject": "Up to 50% off at Sephora \ud83d\udc84",
+    "date": "Mon, 15 Jun 2026 18:46:25 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:57:27.960334+00:00"
   },
   {
-    "id": "102387389c562cdaf18a7af36a75fe09",
-    "subject": "Peace Deal Sends Crypto Scurrying",
-    "date": "Mon, 15 Jun 2026 17:11:27 +0000",
-    "processed_at": "2026-06-16T22:50:11.750158+00:00"
+    "id": "3819fb60919835bc78622e6e6456daa6",
+    "subject": "You borrowed $100",
+    "date": "Mon, 15 Jun 2026 18:59:27 +0000",
+    "processed_at": "2026-06-18T18:56:36.188664+00:00"
   },
   {
-    "id": "d26420c45859561c5c8e8c1a8766d2e9",
-    "subject": "New events from organizers you already love.",
-    "date": "Mon, 15 Jun 2026 15:24:34 +0000",
-    "processed_at": "2026-06-16T22:50:22.259599+00:00"
+    "id": "e489b64aa71b0b6628c33549804553f8",
+    "subject": "Cash App Complaint [a1m-9565510-Pn00000S1WnK]",
+    "date": "Mon, 15 Jun 2026 19:26:32 +0000 (GMT)",
+    "processed_at": "2026-06-18T18:56:27.188302+00:00"
   },
   {
-    "id": "7600a45b079d912e99de3d7020dbe4ad",
-    "subject": "Scan your new code for 20% OFF",
-    "date": "Mon, 15 Jun 2026 16:07:21 +0100",
-    "processed_at": "2026-06-16T22:50:34.037769+00:00"
+    "id": "078ab2b531c489b47f2370a075897109",
+    "subject": "You spent $11.07 at Mochii Donut Orland Park",
+    "date": "Mon, 15 Jun 2026 19:43:42 +0000",
+    "processed_at": "2026-06-18T18:56:07.973215+00:00"
   },
   {
-    "id": "5763c58a0f0704daaa7f163a1a251bd6",
-    "subject": "Monogamy is overrated",
-    "date": "Mon, 15 Jun 2026 14:31:01 +0000",
-    "processed_at": "2026-06-16T22:50:41.776832+00:00"
+    "id": "8b6c5a225bc36fee53884c5bc35be172",
+    "subject": "You spent $11.17 at Al Hamawi Roastery O",
+    "date": "Mon, 15 Jun 2026 20:25:25 +0000",
+    "processed_at": "2026-06-18T18:56:07.972592+00:00"
   },
   {
-    "id": "65758f7e74dfaf1030bd6cf410f20df8",
-    "subject": "On repeat: Sprints, hills, and city streets",
-    "date": "Mon, 15 Jun 2026 14:29:07 +0000",
-    "processed_at": "2026-06-16T22:50:41.777350+00:00"
+    "id": "cb8ee7e3eb8a2a20b24a5e07d7ba2549",
+    "subject": "Josiah Queen/WWE Summer Tour/Gary Allan",
+    "date": "Mon, 15 Jun 2026 21:24:41 +0000",
+    "processed_at": "2026-06-18T18:56:07.971710+00:00"
   },
   {
-    "id": "87298f50cdc38c83a0002f0bed18f384",
-    "subject": "One piece arcs guide",
-    "date": "Mon, 15 Jun 2026 14:26:32 +0000",
-    "processed_at": "2026-06-16T22:50:41.777847+00:00"
-  },
-  {
-    "id": "017344bdb88299e107c5928b9181cae5",
-    "subject": "The holidays came early",
-    "date": "Mon, 15 Jun 2026 14:10:51 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:50:56.018739+00:00"
-  },
-  {
-    "id": "11cf07aec1d7c724d70221d1be1a1a0b",
-    "subject": "June OOPBUY benefits have arrived!",
-    "date": "Mon, 15 Jun 2026 13:33:17 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:50:56.019742+00:00"
-  },
-  {
-    "id": "9935596b483fc5762b93495a7a9c1f9d",
-    "subject": "Your June spending update",
-    "date": "Mon, 15 Jun 2026 13:32:29 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:51:17.621003+00:00"
-  },
-  {
-    "id": "06e9e33062cc19d24fe95787e7cbda2e",
-    "subject": "TODAY ONLY! Spend $20, get 250 bonus points \u203c",
-    "date": "Mon, 15 Jun 2026 12:52:57 +0000",
-    "processed_at": "2026-06-16T22:51:34.860017+00:00"
-  },
-  {
-    "id": "587d607f5483e789a796fab998fed47c",
-    "subject": "\ud83d\udea8 There's an issue with your Autopay",
-    "date": "Mon, 15 Jun 2026 12:08:58 +0000",
-    "processed_at": "2026-06-16T22:51:50.925836+00:00"
-  },
-  {
-    "id": "7d052216cf89999791e524a6c0ebbc96",
-    "subject": "Simply. EXCELLENT. Is it time to upgrade your electronics?",
-    "date": "Mon, 15 Jun 2026 07:08:51 -0400 (EDT)",
-    "processed_at": "2026-06-16T22:51:50.927368+00:00"
-  },
-  {
-    "id": "23ebd772a9a812b71360ef095a6491df",
-    "subject": "The Morning: A deal in Iran",
-    "date": "Mon, 15 Jun 2026 10:52:26 +0000",
-    "processed_at": "2026-06-16T22:52:12.710096+00:00"
-  },
-  {
-    "id": "51ca2868573e43b4c6168b211a6749d6",
-    "subject": "\uaa5c Your HTB round-up: Cyber Apocalypse 2026 is finally here! (and more cool stuff)",
-    "date": "Mon, 15 Jun 2026 10:40:56 +0000",
-    "processed_at": "2026-06-16T22:52:32.106041+00:00"
-  },
-  {
-    "id": "441a8194b2a0550360879549a090456c",
-    "subject": "Elon is trillionaire \ud83d\udcb0, Anthropic removes Fable \ud83d\udeab, Meta's AI gulag \ud83d\udc68\u200d\ud83d\udcbb",
-    "date": "Mon, 15 Jun 2026 10:23:03 +0000",
-    "processed_at": "2026-06-16T22:53:10.835305+00:00"
-  },
-  {
-    "id": "82b73dd6340426add950e4008b0f77e4",
-    "subject": "$3.00 payment to Windscribe Limited was unsuccessful again",
-    "date": "Mon, 15 Jun 2026 09:37:47 +0000",
-    "processed_at": "2026-06-16T22:53:25.392707+00:00"
-  },
-  {
-    "id": "87f686b9a87f07307033ca2f3135f351",
-    "subject": "ACTION REQUIRED: Payment Failure",
-    "date": "Mon, 15 Jun 2026 09:37:46 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:53:49.183182+00:00"
-  },
-  {
-    "id": "072a3d334c8c2b1dae1549bdea3f51ea",
+    "id": "eae1c35c31ec2acb0b5d2caefae27838",
     "subject": "$30.00 payment to Grok xAI was unsuccessful again",
-    "date": "Mon, 15 Jun 2026 08:01:05 +0000",
-    "processed_at": "2026-06-16T22:54:08.007249+00:00"
+    "date": "Mon, 15 Jun 2026 22:01:11 +0000",
+    "processed_at": "2026-06-18T18:56:07.970731+00:00"
   },
   {
-    "id": "e551bd86592c074bb3d1ad0e68aca043",
-    "subject": "Here's your latest Credit Summary",
-    "date": "Mon, 15 Jun 2026 03:09:08 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:54:36.131981+00:00"
+    "id": "b911cc906c42ca69c6186e6673e91aa9",
+    "subject": "Uncategorized transaction detected",
+    "date": "Mon, 15 Jun 2026 22:38:47 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:55:50.219033+00:00"
   },
   {
-    "id": "a4144f36de19144e919c10a19ae8b4aa",
-    "subject": "Ideas to brighten your mood",
-    "date": "Mon, 15 Jun 2026 02:26:07 +0000",
-    "processed_at": "2026-06-16T22:54:36.133006+00:00"
+    "id": "0fdd6fe9dbc3894a328b712073e8c64b",
+    "subject": "You spent $14.95 at Lyft",
+    "date": "Mon, 15 Jun 2026 23:08:09 +0000",
+    "processed_at": "2026-06-18T18:54:11.698915+00:00"
   },
   {
-    "id": "01ec12023d9bd7a6e7b4ecee25fddea4",
-    "subject": "1 DAY LEFT: Your Father\u2019s Day sale ends tomorrow!",
-    "date": "Mon, 15 Jun 2026 02:13:22 +0000 (UTC)",
-    "processed_at": "2026-06-16T22:54:36.135009+00:00"
+    "id": "c2bdfa2ee16a0240a118d4562197dff0",
+    "subject": "Qowiyu, 15% OFF Deals + Kits ends tonight",
+    "date": "Tue, 16 Jun 2026 00:23:07 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:54:11.698246+00:00"
   },
   {
-    "id": "6ceca0431fb7f8183d84cbdf0bf72778",
-    "subject": "30% Off PRO\u00ae Gifts Built for Hardworking Dads",
-    "date": "Sun, 14 Jun 2026 18:04:16 -0600",
-    "processed_at": "2026-06-16T22:55:03.164528+00:00"
+    "id": "c2e6413b58a3da1ebe67d0db9d57b32b",
+    "subject": "A Team Member has offered a shift",
+    "date": "Tue, 16 Jun 2026 02:20:50 +0000",
+    "processed_at": "2026-06-18T18:54:11.697186+00:00"
   },
   {
-    "id": "931fdaba15aa6939d56910b78c7a9de6",
-    "subject": "You spent $10 at Chime",
-    "date": "Wed, 17 Jun 2026 18:30:02 +0000",
-    "processed_at": "2026-06-17T19:50:50.414920+00:00"
+    "id": "ffb4e9dcb82c68e6f9073cbc59ac840f",
+    "subject": "One Piece Fanart guide",
+    "date": "Tue, 16 Jun 2026 02:26:23 +0000",
+    "processed_at": "2026-06-18T18:53:57.221138+00:00"
   },
   {
-    "id": "5847875b392b0aeb28fabc00d3582cf1",
-    "subject": "[ACTION REQUIRED] There's an issue with your Autopay",
-    "date": "Wed, 17 Jun 2026 18:28:58 +0000",
-    "processed_at": "2026-06-17T19:51:16.698679+00:00"
+    "id": "b66e574180b2222df23321db988e6706",
+    "subject": "Summer\u2019s arrived & so has your ride",
+    "date": "Mon, 15 Jun 2026 22:41:59 -0600",
+    "processed_at": "2026-06-18T18:53:57.220325+00:00"
   },
   {
-    "id": "ed93d3c76fddaa5b959f329b0b054176",
-    "subject": "You spent $15 at Chime",
-    "date": "Wed, 17 Jun 2026 18:19:11 +0000",
-    "processed_at": "2026-06-17T19:51:16.699406+00:00"
+    "id": "2fa6ce7d3aa040b23a61c110cfc52219",
+    "subject": "Anthropic's superpower \ud83e\udd16, Roku acquired \ud83d\udcb0, agentic code review \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Tue, 16 Jun 2026 10:21:21 +0000",
+    "processed_at": "2026-06-18T18:53:57.219537+00:00"
   },
   {
-    "id": "37592bad93e2675fb2083747703c7a03",
-    "subject": "Your $15 payment at Coinbase was declined",
-    "date": "Wed, 17 Jun 2026 18:18:29 +0000",
-    "processed_at": "2026-06-17T19:51:16.700079+00:00"
+    "id": "71f75ae0770bdca8b8db51fb4dfa43c1",
+    "subject": "The Morning: Will the deal work?",
+    "date": "Tue, 16 Jun 2026 10:28:43 +0000",
+    "processed_at": "2026-06-18T18:53:57.218442+00:00"
   },
   {
-    "id": "60fa6b53a70383df6c3080f18416652d",
-    "subject": "Your $15 payment at Coinbase was declined",
-    "date": "Wed, 17 Jun 2026 18:17:45 +0000",
-    "processed_at": "2026-06-17T19:51:16.700759+00:00"
+    "id": "88d472399574809c97999f785e8b02eb",
+    "subject": "Simply. AMAZING. It's time for our Father's Day deals",
+    "date": "Tue, 16 Jun 2026 07:05:22 -0400 (EDT)",
+    "processed_at": "2026-06-18T18:53:21.403889+00:00"
   },
   {
-    "id": "30c385fa059857b48a067de9c950f53c",
-    "subject": "One Piece Drawings guide",
-    "date": "Wed, 17 Jun 2026 17:26:35 +0000",
-    "processed_at": "2026-06-17T19:51:16.701486+00:00"
+    "id": "fa08d35109a449adb063e7f2bd36ec95",
+    "subject": "Sugar Loaf Weekly Free Plays!",
+    "date": "Tue, 16 Jun 2026 11:51:13 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:53:21.402880+00:00"
   },
   {
-    "id": "3603fd52cfa081964ff833cf46d55282",
-    "subject": "Which Scent Sounds Like You?",
-    "date": "Wed, 17 Jun 2026 17:07:37 +0000",
-    "processed_at": "2026-06-17T19:51:28.835701+00:00"
+    "id": "86dea7e94b7b15c48a6865c8badfffdc",
+    "subject": "What are we getting him this year? \ud83e\udd14",
+    "date": "Tue, 16 Jun 2026 12:30:18 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:52:39.978310+00:00"
   },
   {
-    "id": "06e6d0fd6b40d6509ab84ed63f389dd2",
-    "subject": "Experience top notch primary care",
-    "date": "Wed, 17 Jun 2026 10:32:07 -0600",
-    "processed_at": "2026-06-17T19:51:52.432567+00:00"
+    "id": "4a9e74253aeb3c995bbcf70ce8ef87ad",
+    "subject": "Invite friends\u2014you can both get a bonus \ud83d\udcb0",
+    "date": "Tue, 16 Jun 2026 13:06:40 +0000",
+    "processed_at": "2026-06-18T18:52:16.515545+00:00"
   },
   {
-    "id": "f0e98e6da8d9bd1bf0fad6a2fd9a5624",
-    "subject": "\ud83d\udc49 Click for $100 IN FREE PICKS",
-    "date": "Wed, 17 Jun 2026 16:13:46 +0000",
-    "processed_at": "2026-06-17T19:52:08.206904+00:00"
+    "id": "afc04b7b59a3e324ec48fafccf29c842",
+    "subject": "\ud83d\udd25 $5.99 Favorite sandwich reward \ud83d\udd25",
+    "date": "Tue, 16 Jun 2026 13:29:37 +0000",
+    "processed_at": "2026-06-18T18:52:16.514595+00:00"
   },
   {
-    "id": "aa2c92e92e02dbb264f2eb4dbecdc192",
-    "subject": "Crypto Dips Amid Fed Policy Murkiness",
-    "date": "Wed, 17 Jun 2026 16:12:01 +0000",
-    "processed_at": "2026-06-17T19:52:24.591848+00:00"
+    "id": "5bc479ca867be4334ea3971046b42d4f",
+    "subject": "You bought $4.81 of Microsoft",
+    "date": "Tue, 16 Jun 2026 13:31:03 +0000",
+    "processed_at": "2026-06-18T18:52:16.513512+00:00"
   },
   {
-    "id": "bc25de1447d0ead204b6eac49e6a4273",
-    "subject": "Our Mid-Year Sale is LIVE \ud83d\udea8",
-    "date": "Wed, 17 Jun 2026 15:34:49 +0000",
-    "processed_at": "2026-06-17T19:52:24.592617+00:00"
+    "id": "7523137351c835ddfe281bbc84768b13",
+    "subject": "$0 Delivery Fee on your shopping list",
+    "date": "Tue, 16 Jun 2026 13:59:00 +0000",
+    "processed_at": "2026-06-18T18:51:59.289401+00:00"
   },
   {
-    "id": "908061637298bc0e33aae44fba21ea58",
-    "subject": "I B R A H I M reposted: The job application system is very lazy, and\n n...",
-    "date": "Wed, 17 Jun 2026 15:30:50 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:52:35.305816+00:00"
+    "id": "217c7aaa99a28072c68bb2e78e5e9034",
+    "subject": "Your taste inspires us",
+    "date": "Tue, 16 Jun 2026 14:26:24 +0000",
+    "processed_at": "2026-06-18T18:51:30.570682+00:00"
   },
   {
-    "id": "d12a2a27bf68e3060afd69c0027a419b",
-    "subject": "Correction Regarding Platinum Loyalty Box",
-    "date": "Wed, 17 Jun 2026 15:26:04 +0000",
-    "processed_at": "2026-06-17T19:52:53.186863+00:00"
+    "id": "aa28c27079ef50eb4569bb388f5a606b",
+    "subject": "\u26be\ufe0f FREE BASEBALL PLAYS",
+    "date": "Tue, 16 Jun 2026 14:55:19 +0000",
+    "processed_at": "2026-06-18T18:51:30.569861+00:00"
   },
   {
-    "id": "8f641b95dc171a945c435e5cec529bfd",
-    "subject": "Complete Your Registration",
-    "date": "Wed, 17 Jun 2026 14:51:31 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:53:00.635306+00:00"
-  },
-  {
-    "id": "564d51a109505434494a0c05e7cd704d",
-    "subject": "ACTION REQUIRED: Payment Failure",
-    "date": "Wed, 17 Jun 2026 14:37:44 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:53:21.458034+00:00"
-  },
-  {
-    "id": "c278c89efe1986da1b8c1d631e7d55ff",
-    "subject": "$3.00 payment to Windscribe Limited was unsuccessful again",
-    "date": "Wed, 17 Jun 2026 14:37:44 +0000",
-    "processed_at": "2026-06-17T19:53:30.908980+00:00"
-  },
-  {
-    "id": "a398f3c836f23384479f805e92a15e34",
-    "subject": "Katy Perry posted: Time to get real\u2026 Watch the full episode of @Unfamo...",
-    "date": "Wed, 17 Jun 2026 14:30:25 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:53:48.769000+00:00"
-  },
-  {
-    "id": "2a8bc406d1a2fae2c6e976b23b342721",
-    "subject": "Happy Hour starts at 4:00 today",
-    "date": "Wed, 17 Jun 2026 14:29:27 +0000",
-    "processed_at": "2026-06-17T19:53:59.004283+00:00"
-  },
-  {
-    "id": "5c880f394f9df0f2fb524722b0dfeb76",
-    "subject": "One Piece Drawings guide",
-    "date": "Wed, 17 Jun 2026 14:26:32 +0000",
-    "processed_at": "2026-06-17T19:53:59.005060+00:00"
-  },
-  {
-    "id": "02c712371a35b10e5197f7aee2a9edd7",
-    "subject": "A Platinum Reward Awaits",
-    "date": "Wed, 17 Jun 2026 14:25:52 +0000",
-    "processed_at": "2026-06-17T19:54:19.337415+00:00"
-  },
-  {
-    "id": "d21270294281f1c7d94da2c031fc72a2",
-    "subject": "NEW RELEASE: Nike Air Max 1 'City Connect Pack - Rangers'",
-    "date": "Wed, 17 Jun 2026 14:07:06 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:54:35.755113+00:00"
-  },
-  {
-    "id": "5255b9a383f6401a87853e9e34c24540",
+    "id": "738895233bb93fcfce90040715424016",
     "subject": "$30.00 payment to Grok xAI was unsuccessful again",
-    "date": "Wed, 17 Jun 2026 11:01:25 +0000",
-    "processed_at": "2026-06-17T19:54:53.560219+00:00"
+    "date": "Tue, 16 Jun 2026 15:01:17 +0000",
+    "processed_at": "2026-06-18T18:51:02.984271+00:00"
   },
   {
-    "id": "ccb8dc51902a6a6d2dce7fb1adb1906c",
-    "subject": "The Morning: What could happen in Iran?",
-    "date": "Wed, 17 Jun 2026 10:57:50 +0000",
-    "processed_at": "2026-06-17T19:55:06.276313+00:00"
+    "id": "84363fa9cac512b6502a123da44bd396",
+    "subject": "Kick in a win: $6.99 Footlong \ud83e\udd45",
+    "date": "Tue, 16 Jun 2026 15:01:20 +0000",
+    "processed_at": "2026-06-18T18:50:12.786653+00:00"
   },
   {
-    "id": "8cc69ca94c1c193e5d4fa664fce0085e",
-    "subject": "SpaceX buys Cursor \ud83d\udcb0, camera AirPods \ud83c\udfa7, S3 annotations \ud83d\udc68\u200d\ud83d\udcbb",
-    "date": "Wed, 17 Jun 2026 10:21:31 +0000",
-    "processed_at": "2026-06-17T19:55:30.231195+00:00"
+    "id": "0e2ad95561e06a03e439289c12563c90",
+    "subject": "The niche isn't saturated.",
+    "date": "Tue, 16 Jun 2026 15:51:03 +0000",
+    "processed_at": "2026-06-18T18:48:17.024052+00:00"
   },
   {
-    "id": "9656adbb26e009c98013f90da589f33c",
-    "subject": "Your Trade Confirmations",
-    "date": "Wed, 17 Jun 2026 05:47:48 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:55:47.752666+00:00"
+    "id": "0a4e7d2b107890c2bfdca6a34795b5a1",
+    "subject": "One Piece Crew guide",
+    "date": "Tue, 16 Jun 2026 17:26:15 +0000",
+    "processed_at": "2026-06-18T18:46:21.598076+00:00"
   },
   {
-    "id": "81d2ca5bece11c98085cd4b713fe288e",
-    "subject": "Tech recommended just for you",
-    "date": "Wed, 17 Jun 2026 05:47:30 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:56:05.552975+00:00"
+    "id": "a5f59a35256e23ce22c1d311bfba2454",
+    "subject": "Space Age Love Fest, DeFi's Big Chance And An Attempt To Save Humanity",
+    "date": "Tue, 16 Jun 2026 17:28:20 +0000",
+    "processed_at": "2026-06-18T18:46:21.595208+00:00"
   },
   {
-    "id": "f91311caaf1404f17084cc8f0932ea72",
-    "subject": "For the dad who'd rather be on the rails",
-    "date": "Tue, 16 Jun 2026 22:24:57 -0600",
-    "processed_at": "2026-06-17T19:56:17.016653+00:00"
+    "id": "f139805d2725b6f4a97e3a16fc06e1b6",
+    "subject": "Limited-edition socks are here \ud83c\uddfa\ud83c\uddf8",
+    "date": "Tue, 16 Jun 2026 17:31:02 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:46:21.591629+00:00"
   },
   {
-    "id": "7a48eb41a72d5ac2c388c3a40f4b2313",
-    "subject": "One piece scenery wallpaper guide",
-    "date": "Wed, 17 Jun 2026 02:26:20 +0000",
-    "processed_at": "2026-06-17T19:56:17.017541+00:00"
+    "id": "ef1570017992c417d5602de33a81a446",
+    "subject": "You're invited: Join the Nike Feedback Lab",
+    "date": "Tue, 16 Jun 2026 17:36:28 +0000",
+    "processed_at": "2026-06-18T18:46:21.586113+00:00"
   },
   {
-    "id": "5ad6bfecfee2ddeaac328475c72eb6a2",
-    "subject": "WC Soccer MAX Discount: Cristiano Ronaldo @ 0.5 Passes Attempted \ud83d\udc10",
-    "date": "Wed, 17 Jun 2026 01:56:49 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:56:32.776031+00:00"
+    "id": "68dec53a8abc97cb68136b6e56cb7d49",
+    "subject": "NEW RELEASE: Paul Rodriguez x Nike SB Air Zoom Low 'Dodgers'",
+    "date": "Tue, 16 Jun 2026 17:47:14 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:45:32.662898+00:00"
   },
   {
-    "id": "11da382ad22d6c08e67e3811bf396bdd",
-    "subject": "\ud83d\udd25 This Week: Machine Gun Kelly, Cardinals & more!",
-    "date": "Wed, 17 Jun 2026 00:18:41 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:56:49.909116+00:00"
+    "id": "075a4d060fc3fe007ecc0fc488777731",
+    "subject": "Qowiyu, check your latest offers \ud83d\udc40",
+    "date": "Tue, 16 Jun 2026 17:48:28 +0000",
+    "processed_at": "2026-06-18T18:44:30.828357+00:00"
   },
   {
-    "id": "9873296d544ea44700abc0923defd039",
-    "subject": "Your Summer Style Starts Here!",
-    "date": "Tue, 16 Jun 2026 18:04:39 -0600",
-    "processed_at": "2026-06-17T19:57:04.646546+00:00"
+    "id": "ee277a4deacf614a1795a50bab577cc9",
+    "subject": "MOST WANTED: BAPE, Godspeed, Billionaire Boys Club and More",
+    "date": "Tue, 16 Jun 2026 18:08:53 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:44:30.827507+00:00"
   },
   {
-    "id": "7a89ecce4baf58750d3d2ef91aacf74d",
-    "subject": "Qowiyu, don\u2019t get stranded\u2014heat drains batteries \u2600\ufe0f",
-    "date": "Tue, 16 Jun 2026 23:36:32 +0000",
-    "processed_at": "2026-06-17T19:57:04.647339+00:00"
+    "id": "2284e76ed2db17dd43766bbe7271c6a8",
+    "subject": "Benga Niger Update: Bricks Done, $5K Needed for the Roof \u2600\ufe0f",
+    "date": "Tue, 16 Jun 2026 18:30:31 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:43:39.574251+00:00"
   },
   {
-    "id": "7c56ad8a74540c17a095a4af077edf5e",
-    "subject": "You spent $10 at Chime",
-    "date": "Tue, 16 Jun 2026 23:16:18 +0000",
-    "processed_at": "2026-06-17T19:57:04.648021+00:00"
+    "id": "63b3e36d7d5894690168c10be0e62788",
+    "subject": "A Team Member has offered a shift",
+    "date": "Tue, 16 Jun 2026 18:52:23 +0000",
+    "processed_at": "2026-06-18T18:43:12.489865+00:00"
   },
   {
-    "id": "d5593626f8125c0e5b776f64e110aa46",
+    "id": "b7cefb061ae03d31f0fb33055d8e2653",
+    "subject": "You choose a designer cologne, get it FREE.",
+    "date": "Tue, 16 Jun 2026 20:00:57 +0000",
+    "processed_at": "2026-06-18T18:42:54.953559+00:00"
+  },
+  {
+    "id": "573de72da3426269387907ba7e74bd10",
+    "subject": "Support Gaza\u2019s children and receive our exclusive jersey",
+    "date": "Tue, 16 Jun 2026 15:15:19 -0600",
+    "processed_at": "2026-06-18T18:42:54.952339+00:00"
+  },
+  {
+    "id": "d2029f1cefcbd93df30238386acadc95",
+    "subject": "Ko-We-U, you have a new Patient Portal message",
+    "date": "Tue, 16 Jun 2026 22:21:09 +0000",
+    "processed_at": "2026-06-18T18:42:22.824464+00:00"
+  },
+  {
+    "id": "2b016496822a32b7e20022cf1466031c",
+    "subject": "Meet Glitch",
+    "date": "Tue, 16 Jun 2026 22:30:11 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:41:47.827715+00:00"
+  },
+  {
+    "id": "50e889ae29dd1b1d2e584c422914d8eb",
+    "subject": "Qowiyu, Wonders & Goodies Inside \ud83d\udc07",
+    "date": "Tue, 16 Jun 2026 23:00:00 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:41:47.826734+00:00"
+  },
+  {
+    "id": "ccd27a2a559f9727050326c0fe839ef9",
+    "subject": "We\u2019re Looking for The One",
+    "date": "Tue, 16 Jun 2026 23:12:32 +0000",
+    "processed_at": "2026-06-18T18:41:02.889532+00:00"
+  },
+  {
+    "id": "08ab3a7d5e74c9ed6bfbd3c46b4cfa6e",
     "subject": "You spent $10 at Chime",
     "date": "Tue, 16 Jun 2026 23:13:28 +0000",
-    "processed_at": "2026-06-17T19:57:04.648648+00:00"
+    "processed_at": "2026-06-18T18:40:28.153237+00:00"
+  },
+  {
+    "id": "f1b927b5f9811f6ea9b80087e862563a",
+    "subject": "You spent $10 at Chime",
+    "date": "Tue, 16 Jun 2026 23:16:18 +0000",
+    "processed_at": "2026-06-18T18:40:28.152418+00:00"
+  },
+  {
+    "id": "7543bade299c8c933db1080b703789ed",
+    "subject": "Qowiyu, don\u2019t get stranded\u2014heat drains batteries \u2600\ufe0f",
+    "date": "Tue, 16 Jun 2026 23:36:32 +0000",
+    "processed_at": "2026-06-18T18:40:28.151577+00:00"
+  },
+  {
+    "id": "08d9a4b8b8eb59b06fd11b9048eb315c",
+    "subject": "Your Summer Style Starts Here!",
+    "date": "Tue, 16 Jun 2026 18:04:39 -0600",
+    "processed_at": "2026-06-18T18:39:48.716530+00:00"
+  },
+  {
+    "id": "4c67c136bec4c0ff64e561813969935b",
+    "subject": "\ud83d\udd25 This Week: Machine Gun Kelly, Cardinals & more!",
+    "date": "Wed, 17 Jun 2026 00:18:41 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:39:48.715259+00:00"
+  },
+  {
+    "id": "b9669fb4355dd1971163c084801853cf",
+    "subject": "WC Soccer MAX Discount: Cristiano Ronaldo @ 0.5 Passes Attempted \ud83d\udc10",
+    "date": "Wed, 17 Jun 2026 01:56:49 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:38:56.401961+00:00"
+  },
+  {
+    "id": "4ac98512e67be2f7f9d2d9214fe9d628",
+    "subject": "One piece scenery wallpaper guide",
+    "date": "Wed, 17 Jun 2026 02:26:20 +0000",
+    "processed_at": "2026-06-18T18:37:26.755421+00:00"
+  },
+  {
+    "id": "19c07fffd48b5404232d602e6a3f3c39",
+    "subject": "For the dad who'd rather be on the rails",
+    "date": "Tue, 16 Jun 2026 22:24:57 -0600",
+    "processed_at": "2026-06-18T18:37:26.754501+00:00"
+  },
+  {
+    "id": "d3c7282c5ec6cbb34441ad7ff8e84530",
+    "subject": "Tech recommended just for you",
+    "date": "Wed, 17 Jun 2026 05:47:30 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:37:26.753641+00:00"
+  },
+  {
+    "id": "578be246d826c6ab58b7500c75bcd3b5",
+    "subject": "Your Trade Confirmations",
+    "date": "Wed, 17 Jun 2026 05:47:48 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:36:52.828461+00:00"
+  },
+  {
+    "id": "c823198fadecc3b21b42a60ec477a1b2",
+    "subject": "SpaceX buys Cursor \ud83d\udcb0, camera AirPods \ud83c\udfa7, S3 annotations \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Wed, 17 Jun 2026 10:21:31 +0000",
+    "processed_at": "2026-06-18T18:35:36.587258+00:00"
+  },
+  {
+    "id": "81f30f4b663b84b5132fe076e69d8e5c",
+    "subject": "The Morning: What could happen in Iran?",
+    "date": "Wed, 17 Jun 2026 10:57:50 +0000",
+    "processed_at": "2026-06-18T18:35:36.574118+00:00"
+  },
+  {
+    "id": "e7640ec6323746d9f7ba84283a659c08",
+    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
+    "date": "Wed, 17 Jun 2026 11:01:25 +0000",
+    "processed_at": "2026-06-18T18:35:03.137532+00:00"
+  },
+  {
+    "id": "7efaa02c785456bdacfc49de74b105aa",
+    "subject": "NEW RELEASE: Nike Air Max 1 'City Connect Pack - Rangers'",
+    "date": "Wed, 17 Jun 2026 14:07:06 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:34:46.172171+00:00"
+  },
+  {
+    "id": "82348e32920209a803f63a6808ab8fcc",
+    "subject": "A Platinum Reward Awaits",
+    "date": "Wed, 17 Jun 2026 14:25:52 +0000",
+    "processed_at": "2026-06-18T18:33:58.834296+00:00"
+  },
+  {
+    "id": "9031b672c96eb93759269f0ce76e0935",
+    "subject": "One Piece Drawings guide",
+    "date": "Wed, 17 Jun 2026 14:26:32 +0000",
+    "processed_at": "2026-06-18T18:33:33.474667+00:00"
+  },
+  {
+    "id": "0d1d79867f71a6d5adc8f60780219149",
+    "subject": "Happy Hour starts at 4:00 today",
+    "date": "Wed, 17 Jun 2026 14:29:27 +0000",
+    "processed_at": "2026-06-18T18:33:33.473749+00:00"
+  },
+  {
+    "id": "081bd03dd84f432893a032231bccacbc",
+    "subject": "Katy Perry posted: Time to get real\u2026 Watch the full episode of @Unfamo...",
+    "date": "Wed, 17 Jun 2026 14:30:25 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:33:02.268936+00:00"
+  },
+  {
+    "id": "85e3550c844ed5c02f2b086c49d99184",
+    "subject": "$3.00 payment to Windscribe Limited was unsuccessful again",
+    "date": "Wed, 17 Jun 2026 14:37:44 +0000",
+    "processed_at": "2026-06-18T18:32:22.855989+00:00"
+  },
+  {
+    "id": "a5b8613dbbc191f0e33077b19b0b069d",
+    "subject": "ACTION REQUIRED: Payment Failure",
+    "date": "Wed, 17 Jun 2026 14:37:44 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:32:09.422795+00:00"
+  },
+  {
+    "id": "9d8f6776211b2dd035fdd84f9504bf40",
+    "subject": "Complete Your Registration",
+    "date": "Wed, 17 Jun 2026 14:51:31 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:32:09.421892+00:00"
+  },
+  {
+    "id": "c6cc10d0c53464f44d4769c7874fa8f8",
+    "subject": "Correction Regarding Platinum Loyalty Box",
+    "date": "Wed, 17 Jun 2026 15:26:04 +0000",
+    "processed_at": "2026-06-18T18:31:56.590633+00:00"
+  },
+  {
+    "id": "3ea3346dbd1be9244f76cec3e9562d0c",
+    "subject": "I B R A H I M reposted: The job application system is very lazy, and\n n...",
+    "date": "Wed, 17 Jun 2026 15:30:50 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:31:29.603454+00:00"
+  },
+  {
+    "id": "8e179f892258b9c20e7df63f314a0824",
+    "subject": "Our Mid-Year Sale is LIVE \ud83d\udea8",
+    "date": "Wed, 17 Jun 2026 15:34:49 +0000",
+    "processed_at": "2026-06-18T18:30:53.019508+00:00"
+  },
+  {
+    "id": "08ae3345b4c8f661d49d8c11c4ab834a",
+    "subject": "Crypto Dips Amid Fed Policy Murkiness",
+    "date": "Wed, 17 Jun 2026 16:12:01 +0000",
+    "processed_at": "2026-06-18T18:30:53.018636+00:00"
+  },
+  {
+    "id": "ff34cc942894cf236c1c7ce481d5e5aa",
+    "subject": "\ud83d\udc49 Click for $100 IN FREE PICKS",
+    "date": "Wed, 17 Jun 2026 16:13:46 +0000",
+    "processed_at": "2026-06-18T18:30:53.017568+00:00"
+  },
+  {
+    "id": "3211d4443fddd2d74585f7d4987b595b",
+    "subject": "Experience top notch primary care",
+    "date": "Wed, 17 Jun 2026 10:32:07 -0600",
+    "processed_at": "2026-06-18T18:30:32.696564+00:00"
+  },
+  {
+    "id": "a6ebce0e889718f92deb0c81aa1a48e3",
+    "subject": "Which Scent Sounds Like You?",
+    "date": "Wed, 17 Jun 2026 17:07:37 +0000",
+    "processed_at": "2026-06-18T18:29:59.970496+00:00"
+  },
+  {
+    "id": "926b9dc1ed7a9c56beef4979541bf8f7",
+    "subject": "One Piece Drawings guide",
+    "date": "Wed, 17 Jun 2026 17:26:35 +0000",
+    "processed_at": "2026-06-18T18:29:59.969708+00:00"
+  },
+  {
+    "id": "da1b08c3288ba2567d04b671d9591490",
+    "subject": "Your $15 payment at Coinbase was declined",
+    "date": "Wed, 17 Jun 2026 18:17:45 +0000",
+    "processed_at": "2026-06-18T18:29:59.969085+00:00"
+  },
+  {
+    "id": "8d074f8d6b49289437a42119209ff700",
+    "subject": "Your $15 payment at Coinbase was declined",
+    "date": "Wed, 17 Jun 2026 18:18:29 +0000",
+    "processed_at": "2026-06-18T18:29:59.968375+00:00"
+  },
+  {
+    "id": "3de4702734ba1000e6f53901d352c792",
+    "subject": "You spent $15 at Chime",
+    "date": "Wed, 17 Jun 2026 18:19:11 +0000",
+    "processed_at": "2026-06-18T18:29:59.967822+00:00"
+  },
+  {
+    "id": "15d4873ee424b97b198c138ff2e50b12",
+    "subject": "[ACTION REQUIRED] There's an issue with your Autopay",
+    "date": "Wed, 17 Jun 2026 18:28:58 +0000",
+    "processed_at": "2026-06-18T18:29:59.967110+00:00"
+  },
+  {
+    "id": "c4e4962b90af049d0d9d78f1e5407183",
+    "subject": "You spent $10 at Chime",
+    "date": "Wed, 17 Jun 2026 18:30:02 +0000",
+    "processed_at": "2026-06-18T18:29:39.507286+00:00"
+  },
+  {
+    "id": "93f0cf4ae0e5e06dcbd87a460f8c99de",
+    "subject": "Toma National Finals: Take the game",
+    "date": "Wed, 17 Jun 2026 21:28:21 +0000",
+    "processed_at": "2026-06-18T18:29:39.506561+00:00"
+  },
+  {
+    "id": "32db7f1566c781b0fe4e52b4f392a780",
+    "subject": "Tornado/Severe Weather Warning-Campus",
+    "date": "Wed, 17 Jun 2026 17:30:50 -0400 (EDT)",
+    "processed_at": "2026-06-18T18:29:06.941407+00:00"
+  },
+  {
+    "id": "a5dca30b0d217e3907a9af232eaf51dd",
+    "subject": "Tornado/Severe Weather Warning-Campus",
+    "date": "Wed, 17 Jun 2026 18:01:18 -0400 (EDT)",
+    "processed_at": "2026-06-18T18:28:56.989606+00:00"
+  },
+  {
+    "id": "371f5c5f379d0d378d792a1c15694e5e",
+    "subject": "Weather All Clear",
+    "date": "Wed, 17 Jun 2026 18:39:50 -0400 (EDT)",
+    "processed_at": "2026-06-18T18:28:41.466689+00:00"
+  },
+  {
+    "id": "963bf0c6f2fd0541cfaf0da2682a3fae",
+    "subject": "The reviews are in, Qowiyu",
+    "date": "Wed, 17 Jun 2026 23:15:18 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:28:30.428412+00:00"
+  },
+  {
+    "id": "54e8d692b6d7b5e4912bb6e4ad457d5f",
+    "subject": "You've Been Chosen \u2764\ufe0f",
+    "date": "Thu, 18 Jun 2026 00:15:28 +0000",
+    "processed_at": "2026-06-18T18:28:30.427675+00:00"
+  },
+  {
+    "id": "24d15999a9d2f143109d43cdda583192",
+    "subject": "Ship It Before It\u2019s Too Late \ud83d\udce6",
+    "date": "Thu, 18 Jun 2026 00:31:05 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:28:30.426874+00:00"
+  },
+  {
+    "id": "5e5efba82092120929ee16dff1e3f9be",
+    "subject": "Application submission for Best Buy",
+    "date": "17 Jun 2026 21:06:03 -0400",
+    "processed_at": "2026-06-18T18:27:57.051409+00:00"
+  },
+  {
+    "id": "3b4d16c2532dfb02d55b8bf61844b883",
+    "subject": "A Team Member has offered a shift",
+    "date": "Thu, 18 Jun 2026 01:35:15 +0000",
+    "processed_at": "2026-06-18T18:27:41.885890+00:00"
+  },
+  {
+    "id": "836931cd7724bd7fe7f2adc39c52cd2c",
+    "subject": "One Piece Wallpaper guide",
+    "date": "Thu, 18 Jun 2026 02:26:33 +0000",
+    "processed_at": "2026-06-18T18:27:30.743464+00:00"
+  },
+  {
+    "id": "199dbf1ec855f6790ad3569c3380ab94",
+    "subject": "\ud83d\udcc5 Routine Refresh \ud83c\udf00",
+    "date": "Thu, 18 Jun 2026 03:06:15 +0000",
+    "processed_at": "2026-06-18T18:27:30.742886+00:00"
+  },
+  {
+    "id": "591aa9cf81ee0120b29ec70f062d87fc",
+    "subject": "Bolaji0105 just sent you a message",
+    "date": "Thu, 18 Jun 2026 03:16:25 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:27:30.742131+00:00"
+  },
+  {
+    "id": "888e4ab46f6b6dba15f865496839146a",
+    "subject": "Don\u2019t forget, Qowiyu! Now earn up to 25K points",
+    "date": "Wed, 17 Jun 2026 21:28:37 -0600",
+    "processed_at": "2026-06-18T18:27:03.691666+00:00"
+  },
+  {
+    "id": "cb5758ea6615427d3dc4258052d49397",
+    "subject": "Need Top Deals? We've got them... Shop today and save",
+    "date": "Thu, 18 Jun 2026 07:01:35 -0400 (EDT)",
+    "processed_at": "2026-06-18T18:27:03.691137+00:00"
+  },
+  {
+    "id": "9ae7d32dd2dfcfe3bc98144059b892f5",
+    "subject": "iPhone Air 2 \ud83d\udcf1, inside Anthropic ban \u2696\ufe0f, Claude Design + Code \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Thu, 18 Jun 2026 11:04:12 +0000",
+    "processed_at": "2026-06-18T18:27:03.690493+00:00"
+  },
+  {
+    "id": "4f7bd310c6afe672d34c61c2c09ee9f8",
+    "subject": "The Morning: At the Supreme Court",
+    "date": "Thu, 18 Jun 2026 11:09:56 +0000",
+    "processed_at": "2026-06-18T18:27:03.689495+00:00"
+  },
+  {
+    "id": "b0c5aead0409f6a91792326273f83a26",
+    "subject": "BOGO Toasted Sandwiches \ud83c\udf89",
+    "date": "Thu, 18 Jun 2026 13:00:27 +0000",
+    "processed_at": "2026-06-18T18:26:33.583366+00:00"
+  },
+  {
+    "id": "2288722f7c124657e469ae8deec09ece",
+    "subject": "A Team Member has offered a shift",
+    "date": "Thu, 18 Jun 2026 13:18:11 +0000",
+    "processed_at": "2026-06-18T18:26:33.582269+00:00"
+  },
+  {
+    "id": "3cb63554c692272aba9b355a3859c0a0",
+    "subject": "OOPBUY Pointshaul \u2013 13-Day Special Event",
+    "date": "Thu, 18 Jun 2026 13:44:29 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:26:21.094264+00:00"
+  },
+  {
+    "id": "0eb76a430a9bf169572e69421d36cc3b",
+    "subject": "This World Refugee Day, Stand with Palestine Refugees",
+    "date": "Thu, 18 Jun 2026 08:02:23 -0600",
+    "processed_at": "2026-06-18T18:25:47.300871+00:00"
+  },
+  {
+    "id": "54300465e6094bccb9c9ca80af6a05b9",
+    "subject": "son son741 sent you a message",
+    "date": "Thu, 18 Jun 2026 14:19:20 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:25:23.346843+00:00"
+  },
+  {
+    "id": "f53bd71c0a8da47157a18978fe4c8964",
+    "subject": "One piece zero guide",
+    "date": "Thu, 18 Jun 2026 14:26:57 +0000",
+    "processed_at": "2026-06-18T18:24:55.045439+00:00"
+  },
+  {
+    "id": "84dda37989cf53fa0195e31e615e525e",
+    "subject": "tldr; free month inside",
+    "date": "Thu, 18 Jun 2026 14:30:56 +0000",
+    "processed_at": "2026-06-18T18:24:55.044790+00:00"
+  },
+  {
+    "id": "50ead0fe0fcd6740f5e7faabd28f7723",
+    "subject": "190K subscribers in 9 months from an empty niche",
+    "date": "Thu, 18 Jun 2026 14:38:04 +0000",
+    "processed_at": "2026-06-18T18:24:55.044045+00:00"
+  },
+  {
+    "id": "b9a9dda2da7179cbe7c0de42015635f5",
+    "subject": "Skate Park Essentials",
+    "date": "Thu, 18 Jun 2026 15:35:55 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:24:55.043150+00:00"
+  },
+  {
+    "id": "6d0c768f199fedf13c3f417060387378",
+    "subject": "\ud83d\udcb0 Claim your FREE WEEK",
+    "date": "Thu, 18 Jun 2026 17:05:28 +0000",
+    "processed_at": "2026-06-18T18:24:15.042920+00:00"
+  },
+  {
+    "id": "c64aef889f4c6094c96e887b58cc182e",
+    "subject": "One piece geometric guide",
+    "date": "Thu, 18 Jun 2026 17:31:06 +0000",
+    "processed_at": "2026-06-18T18:23:58.867485+00:00"
+  },
+  {
+    "id": "2a2774fc120b61734ac743b7287726c7",
+    "subject": "Traversing A Dense Thicket Of Macro Forces, Crypto Gathers Its Composure",
+    "date": "Thu, 18 Jun 2026 17:46:05 +0000",
+    "processed_at": "2026-06-18T18:23:58.867002+00:00"
+  },
+  {
+    "id": "409fcb06ad05e88b742a5d28c1387f79",
+    "subject": "Finish your WIU application, Qowiyu",
+    "date": "Thu, 18 Jun 2026 17:57:18 +0000 (UTC)",
+    "processed_at": "2026-06-18T18:23:58.866195+00:00"
+  },
+  {
+    "id": "1fb85563d1cf9fca04b6692b5ca01dc0",
+    "subject": "Qowiyu, Wonders & Goodies Inside \ud83d\udc07",
+    "date": "Tue, 16 Jun 2026 23:00:00 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:57:15.986881+00:00"
   },
   {
     "id": "ee636e094ab1255d41f444cd08970b55",
@@ -594,9 +648,591 @@
     "processed_at": "2026-06-17T19:57:04.649345+00:00"
   },
   {
-    "id": "1fb85563d1cf9fca04b6692b5ca01dc0",
-    "subject": "Qowiyu, Wonders & Goodies Inside \ud83d\udc07",
-    "date": "Tue, 16 Jun 2026 23:00:00 +0000 (UTC)",
-    "processed_at": "2026-06-17T19:57:15.986881+00:00"
+    "id": "d5593626f8125c0e5b776f64e110aa46",
+    "subject": "You spent $10 at Chime",
+    "date": "Tue, 16 Jun 2026 23:13:28 +0000",
+    "processed_at": "2026-06-17T19:57:04.648648+00:00"
+  },
+  {
+    "id": "7c56ad8a74540c17a095a4af077edf5e",
+    "subject": "You spent $10 at Chime",
+    "date": "Tue, 16 Jun 2026 23:16:18 +0000",
+    "processed_at": "2026-06-17T19:57:04.648021+00:00"
+  },
+  {
+    "id": "7a89ecce4baf58750d3d2ef91aacf74d",
+    "subject": "Qowiyu, don\u2019t get stranded\u2014heat drains batteries \u2600\ufe0f",
+    "date": "Tue, 16 Jun 2026 23:36:32 +0000",
+    "processed_at": "2026-06-17T19:57:04.647339+00:00"
+  },
+  {
+    "id": "9873296d544ea44700abc0923defd039",
+    "subject": "Your Summer Style Starts Here!",
+    "date": "Tue, 16 Jun 2026 18:04:39 -0600",
+    "processed_at": "2026-06-17T19:57:04.646546+00:00"
+  },
+  {
+    "id": "11da382ad22d6c08e67e3811bf396bdd",
+    "subject": "\ud83d\udd25 This Week: Machine Gun Kelly, Cardinals & more!",
+    "date": "Wed, 17 Jun 2026 00:18:41 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:56:49.909116+00:00"
+  },
+  {
+    "id": "5ad6bfecfee2ddeaac328475c72eb6a2",
+    "subject": "WC Soccer MAX Discount: Cristiano Ronaldo @ 0.5 Passes Attempted \ud83d\udc10",
+    "date": "Wed, 17 Jun 2026 01:56:49 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:56:32.776031+00:00"
+  },
+  {
+    "id": "7a48eb41a72d5ac2c388c3a40f4b2313",
+    "subject": "One piece scenery wallpaper guide",
+    "date": "Wed, 17 Jun 2026 02:26:20 +0000",
+    "processed_at": "2026-06-17T19:56:17.017541+00:00"
+  },
+  {
+    "id": "f91311caaf1404f17084cc8f0932ea72",
+    "subject": "For the dad who'd rather be on the rails",
+    "date": "Tue, 16 Jun 2026 22:24:57 -0600",
+    "processed_at": "2026-06-17T19:56:17.016653+00:00"
+  },
+  {
+    "id": "81d2ca5bece11c98085cd4b713fe288e",
+    "subject": "Tech recommended just for you",
+    "date": "Wed, 17 Jun 2026 05:47:30 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:56:05.552975+00:00"
+  },
+  {
+    "id": "9656adbb26e009c98013f90da589f33c",
+    "subject": "Your Trade Confirmations",
+    "date": "Wed, 17 Jun 2026 05:47:48 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:55:47.752666+00:00"
+  },
+  {
+    "id": "8cc69ca94c1c193e5d4fa664fce0085e",
+    "subject": "SpaceX buys Cursor \ud83d\udcb0, camera AirPods \ud83c\udfa7, S3 annotations \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Wed, 17 Jun 2026 10:21:31 +0000",
+    "processed_at": "2026-06-17T19:55:30.231195+00:00"
+  },
+  {
+    "id": "ccb8dc51902a6a6d2dce7fb1adb1906c",
+    "subject": "The Morning: What could happen in Iran?",
+    "date": "Wed, 17 Jun 2026 10:57:50 +0000",
+    "processed_at": "2026-06-17T19:55:06.276313+00:00"
+  },
+  {
+    "id": "5255b9a383f6401a87853e9e34c24540",
+    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
+    "date": "Wed, 17 Jun 2026 11:01:25 +0000",
+    "processed_at": "2026-06-17T19:54:53.560219+00:00"
+  },
+  {
+    "id": "d21270294281f1c7d94da2c031fc72a2",
+    "subject": "NEW RELEASE: Nike Air Max 1 'City Connect Pack - Rangers'",
+    "date": "Wed, 17 Jun 2026 14:07:06 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:54:35.755113+00:00"
+  },
+  {
+    "id": "02c712371a35b10e5197f7aee2a9edd7",
+    "subject": "A Platinum Reward Awaits",
+    "date": "Wed, 17 Jun 2026 14:25:52 +0000",
+    "processed_at": "2026-06-17T19:54:19.337415+00:00"
+  },
+  {
+    "id": "5c880f394f9df0f2fb524722b0dfeb76",
+    "subject": "One Piece Drawings guide",
+    "date": "Wed, 17 Jun 2026 14:26:32 +0000",
+    "processed_at": "2026-06-17T19:53:59.005060+00:00"
+  },
+  {
+    "id": "2a8bc406d1a2fae2c6e976b23b342721",
+    "subject": "Happy Hour starts at 4:00 today",
+    "date": "Wed, 17 Jun 2026 14:29:27 +0000",
+    "processed_at": "2026-06-17T19:53:59.004283+00:00"
+  },
+  {
+    "id": "a398f3c836f23384479f805e92a15e34",
+    "subject": "Katy Perry posted: Time to get real\u2026 Watch the full episode of @Unfamo...",
+    "date": "Wed, 17 Jun 2026 14:30:25 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:53:48.769000+00:00"
+  },
+  {
+    "id": "c278c89efe1986da1b8c1d631e7d55ff",
+    "subject": "$3.00 payment to Windscribe Limited was unsuccessful again",
+    "date": "Wed, 17 Jun 2026 14:37:44 +0000",
+    "processed_at": "2026-06-17T19:53:30.908980+00:00"
+  },
+  {
+    "id": "564d51a109505434494a0c05e7cd704d",
+    "subject": "ACTION REQUIRED: Payment Failure",
+    "date": "Wed, 17 Jun 2026 14:37:44 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:53:21.458034+00:00"
+  },
+  {
+    "id": "8f641b95dc171a945c435e5cec529bfd",
+    "subject": "Complete Your Registration",
+    "date": "Wed, 17 Jun 2026 14:51:31 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:53:00.635306+00:00"
+  },
+  {
+    "id": "d12a2a27bf68e3060afd69c0027a419b",
+    "subject": "Correction Regarding Platinum Loyalty Box",
+    "date": "Wed, 17 Jun 2026 15:26:04 +0000",
+    "processed_at": "2026-06-17T19:52:53.186863+00:00"
+  },
+  {
+    "id": "908061637298bc0e33aae44fba21ea58",
+    "subject": "I B R A H I M reposted: The job application system is very lazy, and\n n...",
+    "date": "Wed, 17 Jun 2026 15:30:50 +0000 (UTC)",
+    "processed_at": "2026-06-17T19:52:35.305816+00:00"
+  },
+  {
+    "id": "bc25de1447d0ead204b6eac49e6a4273",
+    "subject": "Our Mid-Year Sale is LIVE \ud83d\udea8",
+    "date": "Wed, 17 Jun 2026 15:34:49 +0000",
+    "processed_at": "2026-06-17T19:52:24.592617+00:00"
+  },
+  {
+    "id": "aa2c92e92e02dbb264f2eb4dbecdc192",
+    "subject": "Crypto Dips Amid Fed Policy Murkiness",
+    "date": "Wed, 17 Jun 2026 16:12:01 +0000",
+    "processed_at": "2026-06-17T19:52:24.591848+00:00"
+  },
+  {
+    "id": "f0e98e6da8d9bd1bf0fad6a2fd9a5624",
+    "subject": "\ud83d\udc49 Click for $100 IN FREE PICKS",
+    "date": "Wed, 17 Jun 2026 16:13:46 +0000",
+    "processed_at": "2026-06-17T19:52:08.206904+00:00"
+  },
+  {
+    "id": "06e6d0fd6b40d6509ab84ed63f389dd2",
+    "subject": "Experience top notch primary care",
+    "date": "Wed, 17 Jun 2026 10:32:07 -0600",
+    "processed_at": "2026-06-17T19:51:52.432567+00:00"
+  },
+  {
+    "id": "3603fd52cfa081964ff833cf46d55282",
+    "subject": "Which Scent Sounds Like You?",
+    "date": "Wed, 17 Jun 2026 17:07:37 +0000",
+    "processed_at": "2026-06-17T19:51:28.835701+00:00"
+  },
+  {
+    "id": "30c385fa059857b48a067de9c950f53c",
+    "subject": "One Piece Drawings guide",
+    "date": "Wed, 17 Jun 2026 17:26:35 +0000",
+    "processed_at": "2026-06-17T19:51:16.701486+00:00"
+  },
+  {
+    "id": "60fa6b53a70383df6c3080f18416652d",
+    "subject": "Your $15 payment at Coinbase was declined",
+    "date": "Wed, 17 Jun 2026 18:17:45 +0000",
+    "processed_at": "2026-06-17T19:51:16.700759+00:00"
+  },
+  {
+    "id": "37592bad93e2675fb2083747703c7a03",
+    "subject": "Your $15 payment at Coinbase was declined",
+    "date": "Wed, 17 Jun 2026 18:18:29 +0000",
+    "processed_at": "2026-06-17T19:51:16.700079+00:00"
+  },
+  {
+    "id": "ed93d3c76fddaa5b959f329b0b054176",
+    "subject": "You spent $15 at Chime",
+    "date": "Wed, 17 Jun 2026 18:19:11 +0000",
+    "processed_at": "2026-06-17T19:51:16.699406+00:00"
+  },
+  {
+    "id": "5847875b392b0aeb28fabc00d3582cf1",
+    "subject": "[ACTION REQUIRED] There's an issue with your Autopay",
+    "date": "Wed, 17 Jun 2026 18:28:58 +0000",
+    "processed_at": "2026-06-17T19:51:16.698679+00:00"
+  },
+  {
+    "id": "931fdaba15aa6939d56910b78c7a9de6",
+    "subject": "You spent $10 at Chime",
+    "date": "Wed, 17 Jun 2026 18:30:02 +0000",
+    "processed_at": "2026-06-17T19:50:50.414920+00:00"
+  },
+  {
+    "id": "6ceca0431fb7f8183d84cbdf0bf72778",
+    "subject": "30% Off PRO\u00ae Gifts Built for Hardworking Dads",
+    "date": "Sun, 14 Jun 2026 18:04:16 -0600",
+    "processed_at": "2026-06-16T22:55:03.164528+00:00"
+  },
+  {
+    "id": "01ec12023d9bd7a6e7b4ecee25fddea4",
+    "subject": "1 DAY LEFT: Your Father\u2019s Day sale ends tomorrow!",
+    "date": "Mon, 15 Jun 2026 02:13:22 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:54:36.135009+00:00"
+  },
+  {
+    "id": "a4144f36de19144e919c10a19ae8b4aa",
+    "subject": "Ideas to brighten your mood",
+    "date": "Mon, 15 Jun 2026 02:26:07 +0000",
+    "processed_at": "2026-06-16T22:54:36.133006+00:00"
+  },
+  {
+    "id": "e551bd86592c074bb3d1ad0e68aca043",
+    "subject": "Here's your latest Credit Summary",
+    "date": "Mon, 15 Jun 2026 03:09:08 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:54:36.131981+00:00"
+  },
+  {
+    "id": "072a3d334c8c2b1dae1549bdea3f51ea",
+    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
+    "date": "Mon, 15 Jun 2026 08:01:05 +0000",
+    "processed_at": "2026-06-16T22:54:08.007249+00:00"
+  },
+  {
+    "id": "87f686b9a87f07307033ca2f3135f351",
+    "subject": "ACTION REQUIRED: Payment Failure",
+    "date": "Mon, 15 Jun 2026 09:37:46 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:53:49.183182+00:00"
+  },
+  {
+    "id": "82b73dd6340426add950e4008b0f77e4",
+    "subject": "$3.00 payment to Windscribe Limited was unsuccessful again",
+    "date": "Mon, 15 Jun 2026 09:37:47 +0000",
+    "processed_at": "2026-06-16T22:53:25.392707+00:00"
+  },
+  {
+    "id": "441a8194b2a0550360879549a090456c",
+    "subject": "Elon is trillionaire \ud83d\udcb0, Anthropic removes Fable \ud83d\udeab, Meta's AI gulag \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Mon, 15 Jun 2026 10:23:03 +0000",
+    "processed_at": "2026-06-16T22:53:10.835305+00:00"
+  },
+  {
+    "id": "51ca2868573e43b4c6168b211a6749d6",
+    "subject": "\uaa5c Your HTB round-up: Cyber Apocalypse 2026 is finally here! (and more cool stuff)",
+    "date": "Mon, 15 Jun 2026 10:40:56 +0000",
+    "processed_at": "2026-06-16T22:52:32.106041+00:00"
+  },
+  {
+    "id": "23ebd772a9a812b71360ef095a6491df",
+    "subject": "The Morning: A deal in Iran",
+    "date": "Mon, 15 Jun 2026 10:52:26 +0000",
+    "processed_at": "2026-06-16T22:52:12.710096+00:00"
+  },
+  {
+    "id": "7d052216cf89999791e524a6c0ebbc96",
+    "subject": "Simply. EXCELLENT. Is it time to upgrade your electronics?",
+    "date": "Mon, 15 Jun 2026 07:08:51 -0400 (EDT)",
+    "processed_at": "2026-06-16T22:51:50.927368+00:00"
+  },
+  {
+    "id": "587d607f5483e789a796fab998fed47c",
+    "subject": "\ud83d\udea8 There's an issue with your Autopay",
+    "date": "Mon, 15 Jun 2026 12:08:58 +0000",
+    "processed_at": "2026-06-16T22:51:50.925836+00:00"
+  },
+  {
+    "id": "06e9e33062cc19d24fe95787e7cbda2e",
+    "subject": "TODAY ONLY! Spend $20, get 250 bonus points \u203c",
+    "date": "Mon, 15 Jun 2026 12:52:57 +0000",
+    "processed_at": "2026-06-16T22:51:34.860017+00:00"
+  },
+  {
+    "id": "9935596b483fc5762b93495a7a9c1f9d",
+    "subject": "Your June spending update",
+    "date": "Mon, 15 Jun 2026 13:32:29 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:51:17.621003+00:00"
+  },
+  {
+    "id": "11cf07aec1d7c724d70221d1be1a1a0b",
+    "subject": "June OOPBUY benefits have arrived!",
+    "date": "Mon, 15 Jun 2026 13:33:17 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:50:56.019742+00:00"
+  },
+  {
+    "id": "017344bdb88299e107c5928b9181cae5",
+    "subject": "The holidays came early",
+    "date": "Mon, 15 Jun 2026 14:10:51 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:50:56.018739+00:00"
+  },
+  {
+    "id": "87298f50cdc38c83a0002f0bed18f384",
+    "subject": "One piece arcs guide",
+    "date": "Mon, 15 Jun 2026 14:26:32 +0000",
+    "processed_at": "2026-06-16T22:50:41.777847+00:00"
+  },
+  {
+    "id": "65758f7e74dfaf1030bd6cf410f20df8",
+    "subject": "On repeat: Sprints, hills, and city streets",
+    "date": "Mon, 15 Jun 2026 14:29:07 +0000",
+    "processed_at": "2026-06-16T22:50:41.777350+00:00"
+  },
+  {
+    "id": "5763c58a0f0704daaa7f163a1a251bd6",
+    "subject": "Monogamy is overrated",
+    "date": "Mon, 15 Jun 2026 14:31:01 +0000",
+    "processed_at": "2026-06-16T22:50:41.776832+00:00"
+  },
+  {
+    "id": "7600a45b079d912e99de3d7020dbe4ad",
+    "subject": "Scan your new code for 20% OFF",
+    "date": "Mon, 15 Jun 2026 16:07:21 +0100",
+    "processed_at": "2026-06-16T22:50:34.037769+00:00"
+  },
+  {
+    "id": "d26420c45859561c5c8e8c1a8766d2e9",
+    "subject": "New events from organizers you already love.",
+    "date": "Mon, 15 Jun 2026 15:24:34 +0000",
+    "processed_at": "2026-06-16T22:50:22.259599+00:00"
+  },
+  {
+    "id": "102387389c562cdaf18a7af36a75fe09",
+    "subject": "Peace Deal Sends Crypto Scurrying",
+    "date": "Mon, 15 Jun 2026 17:11:27 +0000",
+    "processed_at": "2026-06-16T22:50:11.750158+00:00"
+  },
+  {
+    "id": "cec41cd2904cf6ee8ccf97be333ee66b",
+    "subject": "Obsessed",
+    "date": "Mon, 15 Jun 2026 17:33:06 +0000",
+    "processed_at": "2026-06-16T22:49:59.682142+00:00"
+  },
+  {
+    "id": "f79693a3db0d22cb8bd3b7a583bf845d",
+    "subject": "Ventra Mobile Application - Order Receipt",
+    "date": "Mon, 15 Jun 2026 13:44:43 -0500",
+    "processed_at": "2026-06-16T22:49:59.681505+00:00"
+  },
+  {
+    "id": "2d66fdfa664615ea36cafa02588cde2a",
+    "subject": "Up to 50% off at Sephora \ud83d\udc84",
+    "date": "Mon, 15 Jun 2026 18:46:25 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:49:51.084971+00:00"
+  },
+  {
+    "id": "964d67f2730436a2a9e66f607f6dff90",
+    "subject": "You borrowed $100",
+    "date": "Mon, 15 Jun 2026 18:59:27 +0000",
+    "processed_at": "2026-06-16T22:49:29.294836+00:00"
+  },
+  {
+    "id": "84a4c62b4b72b992d6aa20d6aeb3d2b2",
+    "subject": "Cash App Complaint [a1m-9565510-Pn00000S1WnK]",
+    "date": "Mon, 15 Jun 2026 19:26:32 +0000 (GMT)",
+    "processed_at": "2026-06-16T22:49:23.470852+00:00"
+  },
+  {
+    "id": "7a3d9db3af2059c15242e51db1de4991",
+    "subject": "You spent $11.07 at Mochii Donut Orland Park",
+    "date": "Mon, 15 Jun 2026 19:43:42 +0000",
+    "processed_at": "2026-06-16T22:49:10.967044+00:00"
+  },
+  {
+    "id": "09b8e790b4ec3ffde9e47c3266ef3230",
+    "subject": "You spent $11.17 at Al Hamawi Roastery O",
+    "date": "Mon, 15 Jun 2026 20:25:25 +0000",
+    "processed_at": "2026-06-16T22:49:10.966520+00:00"
+  },
+  {
+    "id": "29fe907af43fd4c12ff2de23cddf5451",
+    "subject": "Josiah Queen/WWE Summer Tour/Gary Allan",
+    "date": "Mon, 15 Jun 2026 21:24:41 +0000",
+    "processed_at": "2026-06-16T22:49:10.965914+00:00"
+  },
+  {
+    "id": "edfec6b1b9c3253f69619ad59138628e",
+    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
+    "date": "Mon, 15 Jun 2026 22:01:11 +0000",
+    "processed_at": "2026-06-16T22:48:59.236242+00:00"
+  },
+  {
+    "id": "2bd2ac43810a928bab91fdb137781378",
+    "subject": "Uncategorized transaction detected",
+    "date": "Mon, 15 Jun 2026 22:38:47 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:48:45.325529+00:00"
+  },
+  {
+    "id": "84e9a4c1daf423d0b9441bfb8e06832f",
+    "subject": "You spent $14.95 at Lyft",
+    "date": "Mon, 15 Jun 2026 23:08:09 +0000",
+    "processed_at": "2026-06-16T22:48:37.514479+00:00"
+  },
+  {
+    "id": "b92812246942d4510bed96c94b2feeb4",
+    "subject": "Qowiyu, 15% OFF Deals + Kits ends tonight",
+    "date": "Tue, 16 Jun 2026 00:23:07 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:48:37.513910+00:00"
+  },
+  {
+    "id": "447eb855a80f37aa3051e8b394659ed7",
+    "subject": "A Team Member has offered a shift",
+    "date": "Tue, 16 Jun 2026 02:20:50 +0000",
+    "processed_at": "2026-06-16T22:48:26.105655+00:00"
+  },
+  {
+    "id": "d93492df8781746c1cda3e9a578951b5",
+    "subject": "One Piece Fanart guide",
+    "date": "Tue, 16 Jun 2026 02:26:23 +0000",
+    "processed_at": "2026-06-16T22:48:18.948729+00:00"
+  },
+  {
+    "id": "f6f775a9cf7b8ce5f4c3aca77cf40d0a",
+    "subject": "Summer\u2019s arrived & so has your ride",
+    "date": "Mon, 15 Jun 2026 22:41:59 -0600",
+    "processed_at": "2026-06-16T22:48:18.947983+00:00"
+  },
+  {
+    "id": "07f795a6bf9a73b79522cfbb0731fae1",
+    "subject": "Anthropic's superpower \ud83e\udd16, Roku acquired \ud83d\udcb0, agentic code review \ud83d\udc68\u200d\ud83d\udcbb",
+    "date": "Tue, 16 Jun 2026 10:21:21 +0000",
+    "processed_at": "2026-06-16T22:48:03.826969+00:00"
+  },
+  {
+    "id": "9b5334892518a9679683092ee7df6698",
+    "subject": "The Morning: Will the deal work?",
+    "date": "Tue, 16 Jun 2026 10:28:43 +0000",
+    "processed_at": "2026-06-16T22:47:44.608672+00:00"
+  },
+  {
+    "id": "e4b107df5dbc8ec049ef45af23d49bfe",
+    "subject": "Simply. AMAZING. It's time for our Father's Day deals",
+    "date": "Tue, 16 Jun 2026 07:05:22 -0400 (EDT)",
+    "processed_at": "2026-06-16T22:47:33.962748+00:00"
+  },
+  {
+    "id": "c32eb431bbbe6071f53e7309029bb3fc",
+    "subject": "Sugar Loaf Weekly Free Plays!",
+    "date": "Tue, 16 Jun 2026 11:51:13 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:47:33.962220+00:00"
+  },
+  {
+    "id": "d8300bb0972ed9a8395e90e194a9e2a6",
+    "subject": "What are we getting him this year? \ud83e\udd14",
+    "date": "Tue, 16 Jun 2026 12:30:18 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:47:24.176131+00:00"
+  },
+  {
+    "id": "852dcf779fd72e41fb7d7b4985c145b6",
+    "subject": "Invite friends\u2014you can both get a bonus \ud83d\udcb0",
+    "date": "Tue, 16 Jun 2026 13:06:40 +0000",
+    "processed_at": "2026-06-16T22:47:16.610474+00:00"
+  },
+  {
+    "id": "029b856ff88f4c91f7a1f051d13f878f",
+    "subject": "\ud83d\udd25 $5.99 Favorite sandwich reward \ud83d\udd25",
+    "date": "Tue, 16 Jun 2026 13:29:37 +0000",
+    "processed_at": "2026-06-16T22:47:06.506027+00:00"
+  },
+  {
+    "id": "9707995a3eddc50c41c540b844b90513",
+    "subject": "You bought $4.81 of Microsoft",
+    "date": "Tue, 16 Jun 2026 13:31:03 +0000",
+    "processed_at": "2026-06-16T22:46:57.340210+00:00"
+  },
+  {
+    "id": "14928be4469dd79eb7e79190f8ca7ffe",
+    "subject": "$0 Delivery Fee on your shopping list",
+    "date": "Tue, 16 Jun 2026 13:59:00 +0000",
+    "processed_at": "2026-06-16T22:46:48.433438+00:00"
+  },
+  {
+    "id": "c75a200ebb528e6a743fbd4a808c67b0",
+    "subject": "Your taste inspires us",
+    "date": "Tue, 16 Jun 2026 14:26:24 +0000",
+    "processed_at": "2026-06-16T22:46:37.712913+00:00"
+  },
+  {
+    "id": "4596bf7545db85999f2b4233655bd6d9",
+    "subject": "\u26be\ufe0f FREE BASEBALL PLAYS",
+    "date": "Tue, 16 Jun 2026 14:55:19 +0000",
+    "processed_at": "2026-06-16T22:46:37.712279+00:00"
+  },
+  {
+    "id": "af11af0885edb280855c04729c70c433",
+    "subject": "$30.00 payment to Grok xAI was unsuccessful again",
+    "date": "Tue, 16 Jun 2026 15:01:17 +0000",
+    "processed_at": "2026-06-16T22:46:28.182809+00:00"
+  },
+  {
+    "id": "eb0b097fadd3c01a08392f4964fddf97",
+    "subject": "Kick in a win: $6.99 Footlong \ud83e\udd45",
+    "date": "Tue, 16 Jun 2026 15:01:20 +0000",
+    "processed_at": "2026-06-16T22:46:20.234917+00:00"
+  },
+  {
+    "id": "8fb2c6ac0ef00e9104b3b3db5bde4f02",
+    "subject": "The niche isn't saturated.",
+    "date": "Tue, 16 Jun 2026 15:51:03 +0000",
+    "processed_at": "2026-06-16T22:46:11.268056+00:00"
+  },
+  {
+    "id": "791542c7fb3739295574e06e9e75ae0e",
+    "subject": "One Piece Crew guide",
+    "date": "Tue, 16 Jun 2026 17:26:15 +0000",
+    "processed_at": "2026-06-16T22:46:02.607381+00:00"
+  },
+  {
+    "id": "7c52a79a670a26691027dad199d5cda6",
+    "subject": "Space Age Love Fest, DeFi's Big Chance And An Attempt To Save Humanity",
+    "date": "Tue, 16 Jun 2026 17:28:20 +0000",
+    "processed_at": "2026-06-16T22:46:02.606828+00:00"
+  },
+  {
+    "id": "016d442c04242156553e5dbf051629a5",
+    "subject": "Limited-edition socks are here \ud83c\uddfa\ud83c\uddf8",
+    "date": "Tue, 16 Jun 2026 17:31:02 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:45:49.388830+00:00"
+  },
+  {
+    "id": "1e08ccc543924fcaf0cb90987d17b200",
+    "subject": "You're invited: Join the Nike Feedback Lab",
+    "date": "Tue, 16 Jun 2026 17:36:28 +0000",
+    "processed_at": "2026-06-16T22:45:40.040764+00:00"
+  },
+  {
+    "id": "610d05adc1422b787b88e20b78e34696",
+    "subject": "NEW RELEASE: Paul Rodriguez x Nike SB Air Zoom Low 'Dodgers'",
+    "date": "Tue, 16 Jun 2026 17:47:14 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:45:40.040210+00:00"
+  },
+  {
+    "id": "f5dcd33221f4f081b173666f762fa027",
+    "subject": "Qowiyu, check your latest offers \ud83d\udc40",
+    "date": "Tue, 16 Jun 2026 17:48:28 +0000",
+    "processed_at": "2026-06-16T22:45:26.893620+00:00"
+  },
+  {
+    "id": "08cd47e87390bed8b90eff072e92b36f",
+    "subject": "MOST WANTED: BAPE, Godspeed, Billionaire Boys Club and More",
+    "date": "Tue, 16 Jun 2026 18:08:53 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:45:20.512228+00:00"
+  },
+  {
+    "id": "c95883c1955979850779c02e614921eb",
+    "subject": "Benga Niger Update: Bricks Done, $5K Needed for the Roof \u2600\ufe0f",
+    "date": "Tue, 16 Jun 2026 18:30:31 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:45:11.175584+00:00"
+  },
+  {
+    "id": "87b4477fb19187710630159c141ba163",
+    "subject": "A Team Member has offered a shift",
+    "date": "Tue, 16 Jun 2026 18:52:23 +0000",
+    "processed_at": "2026-06-16T22:45:01.339744+00:00"
+  },
+  {
+    "id": "7a87e2adb4cd085c2a837b9ec31e3afc",
+    "subject": "You choose a designer cologne, get it FREE.",
+    "date": "Tue, 16 Jun 2026 20:00:57 +0000",
+    "processed_at": "2026-06-16T22:44:53.014959+00:00"
+  },
+  {
+    "id": "95cb44779b740f21f75fe96ec191a11e",
+    "subject": "Support Gaza\u2019s children and receive our exclusive jersey",
+    "date": "Tue, 16 Jun 2026 15:15:19 -0600",
+    "processed_at": "2026-06-16T22:44:44.295997+00:00"
+  },
+  {
+    "id": "11d96a9d28e69dfad1c636af83ae5d76",
+    "subject": "Ko-We-U, you have a new Patient Portal message",
+    "date": "Tue, 16 Jun 2026 22:21:09 +0000",
+    "processed_at": "2026-06-16T22:44:35.043903+00:00"
+  },
+  {
+    "id": "de97f8b9a2c6205ac1478d28cd43f350",
+    "subject": "Meet Glitch",
+    "date": "Tue, 16 Jun 2026 22:30:11 +0000 (UTC)",
+    "processed_at": "2026-06-16T22:44:27.629495+00:00"
   }
 ]

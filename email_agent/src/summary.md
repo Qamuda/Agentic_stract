@@ -1,3 +1,1111 @@
+## Email Summary - 2026-06-18 01:23 PM Central Daylight Time
+
+### 0/10 - Finish your WIU application, Qowiyu
+
+**From:** `Western Illinois University <wiuadmissions@wiu.edu>`  
+**Date:** 2026-06-18 12:57 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Finish your WIU application, Qowiyu
+Summary: The email alerts Qowiyu to complete their Wisconsin Institute of the West University (WIu) application as a requirement for financial aid assistance and offers fall term classes.
+
+Action Required: Apply with Western Illinois University to receive your award offer. Fall term classes begin on August 24th.
+
+Deadlines: May 15, 2026
+Priority: High
+
+### 0/10 - Traversing A Dense Thicket Of Macro Forces, Crypto Gathers Its Composure
+
+**From:** `Uphold Unboxed <newsletter@unboxed.uphold.com>`  
+**Date:** 2026-06-18 12:46 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One piece geometric guide
+
+**From:** `" Pinterest " <recommendations@inspire.pinterest.com>`  
+**Date:** 2026-06-18 12:31 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - 💰 Claim your FREE WEEK
+
+**From:** `Team DubClub <info@dubclub.win>`  
+**Date:** 2026-06-18 12:05 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: 💰 Claim your FREE WEEK
+Summary: This is a promotion offering 35 free units in MLB, with the added bonus of being tracked on multiple social media platforms.
+
+Action Required: None
+Deadline: None
+Priority: Low
+
+### 0/10 - Skate Park Essentials
+
+**From:** `Flight Club <no-reply@e.flightclub.com>`  
+**Date:** 2026-06-18 10:35 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Skate Park Essentials
+Summary: Featuring SB Jordan 4s, Supreme collabs, Dunk lows and more. – Flight Club
+Action Required: None
+Deadline: N/A
+Priority: High
+
+### 0/10 - 190K subscribers in 9 months from an empty niche
+
+**From:** `vidIQ <hello@send.vidiq.com>`  
+**Date:** 2026-06-18 09:38 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - tldr; free month inside
+
+**From:** `"Scentbird" <hello@newsletter.scentbird.com>`  
+**Date:** 2026-06-18 09:30 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One piece zero guide
+
+**From:** `" Pinterest " <recommendations@inspire.pinterest.com>`  
+**Date:** 2026-06-18 09:26 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - son son741 sent you a message
+
+**From:** `son son741 on TikTok <notification@service.tiktok.com>`  
+**Date:** 2026-06-18 09:19 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: son son741 sent you a message
+Summary: The recipient, son son741, has sent an alert notification. It appears to involve a TikTok message with a link and instructions on how to interact with the platform.</summary>
+Action Required: None
+Deadline: Wednesday, 26 Jun 2026 16:30:00 +0000 (Europe)
+Priority: High
+
+### 2/10 - This World Refugee Day, Stand with Palestine Refugees
+
+**From:** `"Lein from UNRWA USA" <info@unrwausa.org>`  
+**Date:** 2026-06-18 09:02 AM Central Daylight Time  
+**Reasons:** Suspicious keyword: act now  
+**Summary:** Subject: Urgent Plea – Palestine Refugee Crisis & UNRWA Fund Needs
+
+Summary: The email highlights a critical situation involving Palestine refugees, emphasizing the urgency for supporting UNRwa through advocacy and calls to action within Congress. It stresses that right now these groups have lost vital funding.
+
+Action Required:  Contact Congress: https://go.pardot.com/e/999631/contact-congress/3kyxg/912527392/h/ErvFxq0LnVpCILJ1F7WQJ4kb-zyTyUfCHY_7jGV9CLI
+
+Deadline: None 
+
+Priority: High
+
+### 0/10 - OOPBUY Pointshaul – 13-Day Special Event
+
+**From:** `OOPBUY <noreply@em8930.es9375.oopbuy.com>`  
+**Date:** 2026-06-18 08:44 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: OOPBUY Pointshaul – 13-Day Special Event
+
+Summary:  OOPBUY is offering a special 13-day event focused on PointsHaul points with unique benefits. This event begins June 18th and runs through September 20th, providing valuable points opportunities for users. Details regarding specific point multipliers, promotions, and rewards are included in the table provided. The timeframe extends through the end of September (approx. 13 days).
+
+Action Required: None
+
+Deadline: August 16th, 2026
+
+Priority: High
+
+### 0/10 - A Team Member has offered a shift
+
+**From:** `Team.Live <no-reply@team.live>`  
+**Date:** 2026-06-18 08:18 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: A Team Member has offered a shift
+Summary: Team member is offering a Crew Member shift on June 18, 2026 at El Dorado McDonald's.
+
+Action Required: None
+Deadline: None
+Priority: Low
+
+### 2/10 - BOGO Toasted Sandwiches 🎉
+
+**From:** `Jimmy John's <announcements@jimmyjohns.com>`  
+**Date:** 2026-06-18 08:00 AM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - The Morning: At the Supreme Court
+
+**From:** `The New York Times <nytdirect@nytimes.com>`  
+**Date:** 2026-06-18 06:09 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: The New York Times - California Notices
+Summary:  The article discusses California's policy regarding climate change, focusing on new initiatives intended to mitigate the effects of weather patterns and promote green initiatives. It highlights the state’s commitment to renewable energy sources, including solar panel installations, battery storage facilities, and investments in sustainable agriculture. The piece offers insights into the administration’s strategy for bolstering environmental protection across various sectors.
+Action Required: None
+Deadline: "None"
+Priority: High
+
+### 0/10 - iPhone Air 2 📱, inside Anthropic ban ⚖️, Claude Design + Code 👨‍💻
+
+**From:** `TLDR <dan@tldrnewsletter.com>`  
+**Date:** 2026-06-18 06:04 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Need Top Deals? We've got them... Shop today and save
+
+**From:** `Best Buy Top Deals <BestBuy@email.bestbuy.com>`  
+**Date:** 2026-06-18 06:01 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Retail promotion
+
+### 0/10 - Don’t forget, Qowiyu! Now earn up to 25K points
+
+**From:** `"Amtrak Guest Rewards" <amtrak@e-mail.amtrak.com>`  
+**Date:** 2026-06-17 10:28 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Bolaji0105 just sent you a message
+
+**From:** `Bolaji0105 on TikTok <notification@service.tiktok.com>`  
+**Date:** 2026-06-17 10:16 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Bolaji0105 just sent you a message
+Summary: Bolagi0105 emailed, including a TikTok notification with a linked image and email content.
+
+Action Required: None
+
+Deadline: "None"
+
+Priority: High
+
+### 0/10 - 📅 Routine Refresh 🌀
+
+**From:** `Inma at Kwiziq Spanish <inma@kwiziq.com>`  
+**Date:** 2026-06-17 10:06 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One Piece Wallpaper guide
+
+**From:** `" Pinterest " <recommendations@inspire.pinterest.com>`  
+**Date:** 2026-06-17 09:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - A Team Member has offered a shift
+
+**From:** `Team.Live <no-reply@team.live>`  
+**Date:** 2026-06-17 08:35 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: A Team Member has offered a shift
+Summary: A team member is offering a Crew Member shift on June 17, 2026 in El Dorado McDonald’s.
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - Application submission for Best Buy
+
+**From:** `"donotreply" <Enterprise@trm.brassring.com>`  
+**Date:** 2026-06-17 08:06 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Application submission for Best Buy
+Summary: The email updates that the candidate will not move forward with their application for a Best Pay Squad Agent position due to lack of fit within Best Buy's search criteria.  The email recommends checking the career website www.bestbuy-jobs.com and joining the Candidate Community for future opportunities.
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - Ship It Before It’s Too Late 📦
+
+**From:** `GLD <support@gld.com>`  
+**Date:** 2026-06-17 07:31 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Ship It Before It’s Too Late 📦
+Summary: This email concerns a shipment of FALYNRTDRs which is now delayed and requires immediate action. The contents include detailed information about the project, its timeline, estimated costs, features, and potential risks. It also includes a notification of a significant delay caused by unforeseen factors – this will impact delivery timelines beyond the original schedule. A critical decision involving financial implications must be made before proceeding. Action Required: Immediately review all aspects of the FALYNRTDR shipment.
+Action Necessary: None
+Deadline: Likely nearing or after tomorrow, pending further information.
+Priority: High
+
+### 0/10 - You've Been Chosen ❤️
+
+**From:** `Courtney from ThreadBeast <courtney.e@threadbeast.intercom-mail.com>`  
+**Date:** 2026-06-17 07:15 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - The reviews are in, Qowiyu
+
+**From:** `MANSCAPED <noreply@news.manscaped.com>`  
+**Date:** 2026-06-17 06:15 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 2/10 - Weather All Clear
+
+**From:** `MU Alert <millikin@email.getrave.com>`  
+**Date:** 2026-06-17 05:39 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: urgent  
+**Summary:** Subject: MU Alert - Weather Decrypted
+
+Summary: This message is an unusual warning, likely about a tornado evacuation. It advises caution due to the possibility of storm damage and indicates that this event has been rescinded. Proceed with alert for potential severe weather involving downed power lines and tree limbs.
+
+Action Required: None
+
+### 2/10 - Tornado/Severe Weather Warning-Campus
+
+**From:** `MU Alert <millikin@email.getrave.com>`  
+**Date:** 2026-06-17 05:01 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: urgent  
+**Summary:** Subject: Tornado/Severe Weather Warning-Campus
+
+Summary: A severe weather warning has been issued for the campus, emphasizing a tornado threat until 6 PM today. MU Alert Millikin is in the path of this event and may experience potential risks.  A detailed message concerning specific impacts will be disseminated shortly.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 2/10 - Tornado/Severe Weather Warning-Campus
+
+**From:** `MU Alert <millikin@email.getrave.com>`  
+**Date:** 2026-06-17 04:30 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: urgent  
+**Summary:** Subject: Tornado/Severe Weather Warning-Campus
+Summary: A severe weather warning has been issued for a campus, advising users to seek safe shelter as of today.
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - Toma National Finals: Take the game
+
+**From:** `Nike <nike@official.nike.com>`  
+**Date:** 2026-06-17 04:28 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Toma National Finals: Take the game
+Summary: The Nike team is holding a championship final, and a prominent announcement focuses on the upcoming events for the Toma National Finals.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - You spent $10 at Chime
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-17 01:30 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - [ACTION REQUIRED] There's an issue with your Autopay
+
+**From:** `Kikoff <no-reply@alerts.kikoff.com>`  
+**Date:** 2026-06-17 01:28 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Visa****5338 Payment Failure - Urgent Fix Required
+
+Summary: A recent Visa****5338 payment attempt failed, requiring immediate intervention to resolve the issue and avoid a negative credit mark. This failure has created an immediate need for timely action. 
+
+Action Required: Verify your account settings quickly to identify and address any errors that might be causing this challenge. Please investigate options such as updating contact information or examining past transaction details to ensure no previous disruptions have occurred. If any correction is necessary, correct it promptly through the designated system.
+
+Deadline: Immediately – Don’t delay!
+
+Priority: High - A failed payment represents a critical oversight requiring immediate attention within 6 hours.
+
+### 0/10 - You spent $15 at Chime
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-17 01:19 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - Your $15 payment at Coinbase was declined
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-17 01:18 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - Your $15 payment at Coinbase was declined
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-17 01:17 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - One Piece Drawings guide
+
+**From:** `Pinterest <recommendations@discover.pinterest.com>`  
+**Date:** 2026-06-17 12:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - Which Scent Sounds Like You?
+
+**From:** `"Scentbird" <hello@newsletter.scentbird.com>`  
+**Date:** 2026-06-17 12:07 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Experience top notch primary care
+
+**From:** `"Amazon Health" <hello@email.health.amazon.com>`  
+**Date:** 2026-06-17 11:32 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Experience top notch primary care
+Summary: Amazon Pharmacy offers access to compassionate providers and virtual appointments, including personalized care plans for body and mind. Services include appointment reminders, patient portals, and free membership trials with one-year renewal fee. 
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - 👉 Click for $100 IN FREE PICKS
+
+**From:** `Team DubClub <info@dubclub.win>`  
+**Date:** 2026-06-17 11:13 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Email Notifications
+
+Summary: This email promotes a special offer—free $100 prizes for using the Onyx promotion codes. The promotion offers free picks to be thrown onto Onyx Odds until 6/17/2026.  It’s an opportunity for users to win substantial cash prizes. Users must use the promotional code DUBCLUB!
+
+Action Required: Sign up today through .co to get $100 in Free PICKS. 
+
+
+Deadline: None
+Priority: High
+
+### 0/10 - Crypto Dips Amid Fed Policy Murkiness
+
+**From:** `Uphold Unboxed <newsletter@unboxed.uphold.com>`  
+**Date:** 2026-06-17 11:12 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Our Mid-Year Sale is LIVE 🚨
+
+**From:** `"Finish Line" <finishline@updates.finishline.com>`  
+**Date:** 2026-06-17 10:34 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Promotional email
+
+### 0/10 - I B R A H I M reposted: The job application system is very lazy, and
+ n...
+
+**From:** `TikTok <notification@service.tiktok.com>`  
+**Date:** 2026-06-17 10:30 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: I B R A H İ M reposted: The job application system is very lazy, and
+ Summary: TikTok user "I B R A h i m" has posted a message on their account that she is reposting content from another user – "The job application system is very lazy" – which seems to be a comment regarding the functionality of an app related to applications. The content is a post with images and text embedded in HTML code snippets, referencing a previous image and some text around it about the focus on automation within a software. The platform is focusing on reposting this content as a means of gaining interest on their accounts.
+ Action Required: None
+ Deadline:
+ Priority: High
+
+### 0/10 - Correction Regarding Platinum Loyalty Box
+
+**From:** `Mystic Greenz <noreply@mysticgreenz.com>`  
+**Date:** 2026-06-17 10:26 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Correction Regarding Platinum Loyalty Box
+
+Summary: The email is about a troubleshooting notification related to errors with the platinum loyalty box service. A correction regarding triggering links is being issued by Google, potentially affecting how users interact with the platform..
+
+Action Required: None
+
+Deadline: 08 Jun 2026 17:00:00 +0000
+
+Priority: High
+
+### 0/10 - Complete Your Registration
+
+**From:** `Nike Feedback Lab <feedbacklab@nike.com>`  
+**Date:** 2026-06-17 09:51 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Complete Your Registration
+
+Summary: Nike has provided instructions for completing registration, requiring users to verify their email address through a link. 
+
+Action Required: Confirm Email Verification
+Deadline: None
+Priority: High
+
+### 0/10 - ACTION REQUIRED: Payment Failure
+
+**From:** `"Windscribe" <helpdesk@windscribe.com>`  
+**Date:** 2026-06-17 09:37 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - $3.00 payment to Windscribe Limited was unsuccessful again
+
+**From:** `Windscribe Limited <failed-payments+acct_177wIMATydeHsTlR@stripe.com>`  
+**Date:** 2026-06-17 09:37 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Payment to Windscribe Limited Failed Again
+
+Summary: A user reported a recent unsuccessful payment attempt on their Discover ending in 5266, requiring them to update their billing information and contact support. Stripe is involved with the charge failure issue.
+
+Action Required: Update payment method at https://windscribe.com?referer=failed_payment  Contact helpdesk@windscribe.com if questions remain.
+Deadline: None
+Priority: High
+
+### 0/10 - Katy Perry posted: Time to get real… Watch the full episode of @Unfamo...
+
+**From:** `TikTok <notification@emails.tiktok.com>`  
+**Date:** 2026-06-17 09:30 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Katy Perry posted: Time to get real… Watch the full episode of @Unfamo...
+Summary: Katy Perry shared a TikTok post promoting her upcoming TV show, "The Unchained", showcasing clips of her performing and featuring the song "Catch Me," attracting potential viewers.
+Action Required: None
+Deadline: Wednesday, 17 June 2026 14:30:25 (UTC)
+Priority: High
+
+### 0/10 - Happy Hour starts at 4:00 today
+
+**From:** `"Sub Club" <news@mktg.subway.com>`  
+**Date:** 2026-06-17 09:29 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Happy Hour starts at 4:00 today
+Summary: Join us for a BOGO50 Footlong.
+
+Action Required: None
+Deadline: Thursday, 21 June 2026 13:00
+Priority: High
+
+### 0/10 - One Piece Drawings guide
+
+**From:** `" Pinterest " <pinterest-recommendations@ideas.pinterest.com>`  
+**Date:** 2026-06-17 09:26 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - A Platinum Reward Awaits
+
+**From:** `Mystic Greenz <noreply@mysticgreenz.com>`  
+**Date:** 2026-06-17 09:25 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: A Platinum Reward Awaits
+Summary:  Discover a new product or exclusive offer – there’s something special for you! This email details a valuable opportunity, including [mention key offerings without revealing specifics].
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - NEW RELEASE: Nike Air Max 1 'City Connect Pack - Rangers'
+
+**From:** `Flight Club <no-reply@e.flightclub.com>`  
+**Date:** 2026-06-17 09:07 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Nike Air Max 1 'City Connect Pack - Rangers'
+Summary: This new release showcases the highly sought-after “Rangers” colorway for the Nike Air Tech Shoe. The set includes vibrant red and blue accents and a unique holographic design featuring subtle silver detailing throughout.  Available now, these trainers are available on the link provided. 
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - $30.00 payment to Grok xAI was unsuccessful again
+
+**From:** `Grok xAI <failed-payments+acct_1PksddHJohyvID2c@stripe.com>`  
+**Date:** 2026-06-17 06:01 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Payment Update for Grok xAI Subscription Failed
+
+Summary: The recent payment to Grok xAI was unsuccessful, requiring an account update.
+
+Action Required: None
+
+Deadline: Today
+
+Priority: Medium
+
+### 0/10 - The Morning: What could happen in Iran?
+
+**From:** `The New York Times <nytdirect@nytimes.com>`  
+**Date:** 2026-06-17 05:57 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: The New York Times - California Notices
+
+Summary:
+The article covers California's efforts to expand its presence within the state and its focus on tourism and recreation. It highlights new initiatives promoting attractions and investment in various regions of California, emphasizing economic development, environmental preservation, and cultural appeal.  It also updates information about business locations through various sources like an internal data-room document.
+
+Action Required: None
+
+Deadline: None
+
+Priority: Medium
+
+### 0/10 - SpaceX buys Cursor 💰, camera AirPods 🎧, S3 annotations 👨‍💻
+
+**From:** `TLDR <dan@tldrnewsletter.com>`  
+**Date:** 2026-06-17 05:21 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Your Trade Confirmations
+
+**From:** `Cash App <noreply@notifications.cash.app>`  
+**Date:** 2026-06-17 12:47 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Your Trade Confirmations
+Summary: You can view your trade confirmation in the app, access it from the receipt in Activity. Review your trade confirmations through our Privacy Policy ( https://apexnotifications.apexfintechsolutions.com/ls/click?upn=u001.XEQS0dFa8bUqwgsjH788TcGX7E4BTtPx9XWR0NFXFHKaF-2Bf6IL2x5WU-2BxXWKdR81WwhG_zK-2FUNUgnMLr-2FFeXGZU-2FtDq452cFeNH3nlIL8v47iypBZWXRpVKpfPK0tZQp7XKwvMsVduyF-2BilvKi0bkZivDV5ZFjjOBEKoje0oBqu-2BOLWjgWDaqT8IIKyE0CULdnkenB6FVUGaf1PgdW4-2FU6HbrWwKlClO-2FRZTOuZ1PCR2Io6-2FIaKQKLZAA4zjnaKnR5FG2Kd7Je)
+
+Privacy Policy ( https://apexnotifications.apexfintechsolutions.com/ls/click?upn=u001.XEQS0dFa8bUqwgsjH788TcGX7E4BTtPx9XWR0NFXFHKaF-2Bf6IL2x5WU-2BxXWKdR81WwhG_zK-2FUNUgnMLr-2FFeXGZU-2FtDq452cFeNH3nlIL8v47iypBZWXRpVKpfPK0tZQp7XKwvMsVduyF-2BilvKi0bkZivDV5ZFjjOBEKoje0oBqu-2BOLWjgWDaqT8IIKyE0CULdnkenB6FVUGaf1PgdW4-2FU6HbrWwKlClO-2FRZTOuZ1PCR2Io6-2FIaKQKLZAA4zjnaKnR5FG2Kd7Je)
+
+Action Required: None
+Deadline: Not Specified.
+Priority: High
+
+### 0/10 - Tech recommended just for you
+
+**From:** `Lenovo US <lenovo@ecomm.lenovo.com>`  
+**Date:** 2026-06-17 12:47 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Tech recommended just for you
+Summary: Lenovo US is recommending a new tech solution. This includes [mention the specific products if available] which might benefit you specifically as a loyal customer of Lenovo, or improve your productivity with the technology you already use. .
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - For the dad who'd rather be on the rails
+
+**From:** `"Amtrak" <Amtrak@e-mail.amtrak.com>`  
+**Date:** 2026-06-16 11:24 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One piece scenery wallpaper guide
+
+**From:** `" Pinterest " <recommendations@explore.pinterest.com>`  
+**Date:** 2026-06-16 09:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 2/10 - WC Soccer MAX Discount: Cristiano Ronaldo @ 0.5 Passes Attempted 🐐
+
+**From:** `PrizePicks Team <hello@mail.prizepicks.com>`  
+**Date:** 2026-06-16 08:56 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Subject: WC Soccer MAX Discount: Cristiano Ronaldo @ 0.5 Passes Attempted🐐
+Summary: Grab it before kickoff on 6/17 🤑
+
+Thursday, June 17, 2026
+From: PrizePicks Team <hello@mail.prizep Hicks>
+Subject: A GOAT-sized MAX Discount – Cristiano Ronaldo just needs 1 Passes Attempted⚽️
+
+***************
+WC Max Discount
+***************
+
+⚽️ Cristiano Ronaldo: 0.5 Passes Attempted ⚽️
+
+Qowiyu — a GOAT-sized MAX Discount
+just landed for one of the greatest to ever do it.
+
+Cristiano Ronaldo just needs 1 Pass Attempts for you to cash
+the pick ✅
+
+Available NOW on the WORLD CUP board until kickoff on 6/17 at 1
+p.m. ET ⬇️
+
+Pick Now  ( https://link.mail.prizepicks.com/ls/click?upn=u001.4tehQhZjp7JAXaC6yjBUDCyXcWoCOKUagsxPqJOcafwa32UhTqJZa0asCbEupJoOClZ2awAXsR1Do5-2FG6jRFiw-3D-3DLl33_zK-2FUNUgnMLr-2FFeXGZU-2FtDq452cFeNH3nlIL8v47iy
+siGfx4O53Y-2BT6dfDN3JorHRPUMcW-2FQjL1QpZ7T0K-2FqL9gUoQd3C0x8A-2Fz-2BhaGsc388BX1tUAihvJ-2FTAES2f1YMXb5jxEPNABGa03Du7aOy-2FatkVaFDkHZmxKzBN5DwtZErcQe0kN0N7T-2FplWnRbvc3fnfNNQevd6388BX1tUAihvJ-2Fn6iB-2F-2Bhgv9P5whCedhnmStc4heDz92YZyaE8mWzR0NmpIrbyHp8i3AEIba0kfLTJgv6Ezmcik2w-2BskqptMBvoENO4jIQ14-2Fui
+siGfx4O53Y-2BT6dfDN3JorHRPUMcW-2FQjL1QpZ7T0K-2FqL9gUoQd3C0x8A-2Fz-2BhaGsc388BX1tUAihvJ-2FTAES2f1YMXb5jxEPNABGa03Du7aOy-2FatkVaFDkHZmxKzBN5DwtZErcQe0kN0N7T-2FplWnRbvc3fnfNNQevd6388BX1tUAihvJ-2FN6iB-2F-2Bhgv9P5whCedhnmStc4heDz92YZyaE8mWzR0NmpIrbyHp8i3AEIba0kfLTJgv6Ezmcik2w-2BskqptMBvoENO4jIQ14-2Fui
+
+### 2/10 - 🔥 This Week: Machine Gun Kelly, Cardinals & more!
+
+**From:** `Nicole from Gametime <nicole@m.gametime.co>`  
+**Date:** 2026-06-16 07:18 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Subject: 🔥 This Week Near You
+Summary:
+Machine Gun Kelly, Cardinals & more! This week’s featured products include Machine Gun Kelly, the vibrant Cardinals, and a selection of other items.
+
+Action Required: None
+Deadline: Not Specified (Wed, 17 Jun 2026 00:18:41 +0000)
+Priority: High
+
+### 2/10 - Your Summer Style Starts Here!
+
+**From:** `"Timberland" <timberland@t.timberland.com>`  
+**Date:** 2026-06-16 07:04 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Qowiyu, don’t get stranded—heat drains batteries ☀️
+
+**From:** `AutoZone  <autozone@em.autozone.com>`  
+**Date:** 2026-06-16 06:36 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Qowiyu, don’t get stranded—heat drains batteries ☀️
+Summary: AutoZone is offering heat-draining battery technology to help prevent potential damage and ensure battery longevity. This includes discounts and promotions related to the new product.
+
+Action Required: None
+
+Deadline: 06/16/2026 / 17:36:32 UTC
+Priority: Medium
+
+### 0/10 - You spent $10 at Chime
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-16 06:16 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - You spent $10 at Chime
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-16 06:13 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - We’re Looking for The One
+
+**From:** `Jordan <jordan@official.nike.com>`  
+**Date:** 2026-06-16 06:12 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Email - Urgent Request Regarding Report
+
+Summary:  The email is a request for urgent details regarding a reported project completion and its implications. Several items are critical, including specific timelines related to the report's finalization, as well as important feedback concerning current workflow processes. The request necessitates immediate review of all deliverables associated with this project.
+
+Action Required: None
+
+Deadline: "None"
+
+Priority: High
+
+### 0/10 - Qowiyu, Wonders & Goodies Inside 🐇
+
+**From:** `Bubble Cash <hellothere@bubble-cash.com>`  
+**Date:** 2026-06-16 06:00 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Qowiyu, Wonders & Goodies Inside 🐇
+Summary: Bubble Cash is sending a promotional email to promote their new product "Wonder" and "Goodie." The email includes a clickable link to the product page for "wonder" and offers a special discount code ("C6BNAW1"). There’s also an opportunity to claim a bonus gift (details are limited) with the code.
+Action Required: None
+Deadline: Unknown
+Priority: High
+
+### 0/10 - Ko-We-U, you have a new Patient Portal message
+
+**From:** `LiveWell <livewell@email.livewell.aah.org>`  
+**Date:** 2026-06-16 05:21 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Ko-We-U, you have a new Patient Portal message
+Summary: The patient is receiving instructions for a new secure portal to access their records. They need to establish login and receive a security certificate before accessing certain features.
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - Support Gaza’s children and receive our exclusive jersey
+
+**From:** `"Zeina from UNRWA USA" <info@unrwausa.org>`  
+**Date:** 2026-06-16 04:15 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Support Gaza’s Children and Receive our Exclusive Jersey
+
+Summary: A campaign promoting a limited-edition jersey for Palestinian children, aiming to raise funds through solidarity sponsorship.   The jersey offers the exclusive “Your Gift is a GOAL for Gaza” option, providing support for UNRWA programs tackling education, psychosocial support, and crisis assistance for Gaza refugees.   Sign up as a Solidarity Sponsor today to receive your jersey and contribute directly to Palestinian children’s wellbeing.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - You choose a designer cologne, get it FREE.
+
+**From:** `"Scentbird" <hello@newsletter.scentbird.com>`  
+**Date:** 2026-06-16 03:00 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - A Team Member has offered a shift
+
+**From:** `Team.Live <no-reply@team.live>`  
+**Date:** 2026-06-16 01:52 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: A Team Member has offered a shift
+Summary: A team member is offering a crew member shift on June 21, 2026 for McDonald's at the location of 1627 Decatur-Water McDonald's.
+
+Action Required: None
+Deadline: N/A
+Priority: Medium
+
+### 0/10 - MOST WANTED: BAPE, Godspeed, Billionaire Boys Club and More
+
+**From:** `GOAT <no-reply@e.goat.com>`  
+**Date:** 2026-06-16 01:08 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: BAPE, Godspeed, Billionaire Boys Club and More
+
+Sneakers, apparel and accessories at the forefront of global style - goat delivers the hottest must-have products!  These stylish kicks and garments are creating waves across the globe. Shoppers can discover a huge selection, including the iconic Bape, Godspeed, and Billionaire Boys Club. 
+
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 2/10 - Qowiyu, check your latest offers 👀
+
+**From:** `Kikoff <no-reply@mail.kikoff.com>`  
+**Date:** 2026-06-16 12:48 PM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - NEW RELEASE: Paul Rodriguez x Nike SB Air Zoom Low 'Dodgers'
+
+**From:** `Flight Club <no-reply@e.flightclub.com>`  
+**Date:** 2026-06-16 12:47 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: New Release: Paul Rodriguez x Nike SB Air Zoom Low 'Dodgers'
+
+This is a highly anticipated release of the latest collaboration between Paul Rodriguez and Nike. The new silhouette boasts a bold design inspired by the iconic Dodger Stadium. Expect to see key elements from Rodriguez’s legendary style blended into these sleek, comfortable sneakers perfect for athletes and fashion enthusiasts alike. These are expected to be sought-after amongst collectors and those seeking modern takes on classic designs.
+
+Action Required: Check [https://links.e.flightclub.com/ls/click?upn=u001.bGktJNjenSHcSsE-2BF3xF7FYQZa1OTt58cgYiIU-2BM0oejyetGGEcB1C](https:// links.e.flightclub.com/ls/click?upn=u001.bGktJNjenSHcSsE-2BF3xF7FYQZA1OTt58cgYiIU-2BM0oejyetGGECB1C)
+Deadline: None
+
+Priority: High - This is a significant product launch offering the newest silhouette.
+
+### 0/10 - You're invited: Join the Nike Feedback Lab
+
+**From:** `Nike <nike@official.nike.com>`  
+**Date:** 2026-06-16 12:36 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: You're invited: Join the Nike Feedback Lab
+
+Summary: This email invites users to join the Nike Feedback Lab, a program focused on gathering user input and testing new features for the company. It highlights the importance of using technical documentation to understand relative time words, with an emphasis on today’s context of a collaborative initiative.  The email clearly describes that they will be interviewing people as part of this process. 
+
+Action Required: None
+
+Deadline: Unknown
+
+Priority: Medium
+
+### 0/10 - Limited-edition socks are here 🇺🇸
+
+**From:** `Pair of Thieves <ahoy@pairofthieves.com>`  
+**Date:** 2026-06-16 12:31 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Space Age Love Fest, DeFi's Big Chance And An Attempt To Save Humanity
+
+**From:** `Uphold Unboxed <newsletter@unboxed.uphold.com>`  
+**Date:** 2026-06-16 12:28 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One Piece Crew guide
+
+**From:** `Pinterest <recommendations@discover.pinterest.com>`  
+**Date:** 2026-06-16 12:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - The niche isn't saturated.
+
+**From:** `vidIQ <hello@send.vidiq.com>`  
+**Date:** 2026-06-16 10:51 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: The niche isn't saturated.
+Summary: This analysis reveals that the current YouTube niches showcasing strong engagement are largely untapped, presenting opportunities to identify unique and profitable areas within popular segments focusing on specific demographics and challenges. Focusing specifically addresses where the largest growth is coming from; these niche segments are ripe for a new approach beyond existing content.
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - Kick in a win: $6.99 Footlong 🥅
+
+**From:** `"Sub Club" <news@mktg.subway.com>`  
+**Date:** 2026-06-16 10:01 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Kick in a win: $6.99 Footlong ショナル
+Summary: An exclusive offer on Sub Club footlongs, featuring a significant discount. This special offer is available until next week, offering customers an exceptional deal. The discount may only be applied on Tuesdays.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - $30.00 payment to Grok xAI was unsuccessful again
+
+**From:** `Grok xAI <failed-payments+acct_1PksddHJohyvID2c@stripe.com>`  
+**Date:** 2026-06-16 10:01 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Payment to Grok xAI Failed Again
+
+Summary: A failed charge for $30.00 to GroklxAI was unsuccessful, requiring an update to billing information to continue subscription.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - ⚾️ FREE BASEBALL PLAYS
+
+**From:** `Team DubClub <info@dubclub.win>`  
+**Date:** 2026-06-16 09:55 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: ⚾️ FREEBASEBALLPLAYS
+Summary: The Just Baseball team has been cooking with Danny and Peter as they are aiming for success.  The email discusses MLB summer, statistics from the previous years to show improved growth, and a VIP offer involving subscriptions.
+
+Action Required: Check DubClub for updates or join their VIP group.
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - Your taste inspires us
+
+**From:** `Pinterest <recommendations@discover.pinterest.com>`  
+**Date:** 2026-06-16 09:26 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Pinterest
+
+### 0/10 - $0 Delivery Fee on your shopping list
+
+**From:** `Uber One <uberone@uber.com>`  
+**Date:** 2026-06-16 08:59 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Uber Next-Gen Discounts & Updates!
+
+Summary: This email offers valuable exclusive discounts, insights into future updates to our app, and special events you won't want to miss.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - You bought $4.81 of Microsoft
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-16 08:31 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: You bought $4.81 of Microsoft (MSFT)
+Summary: A recent transaction involving a purchase of $4.81 of Microsoft shares was completed on June 16, 2026.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 2/10 - 🔥 $5.99 Favorite sandwich reward 🔥
+
+**From:** `Jimmy John's <announcements@jimmyjohns.com>`  
+**Date:** 2026-06-16 08:29 AM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Invite friends—you can both get a bonus 💰
+
+**From:** `"Cash App" <cash-app@messages.cash.app>`  
+**Date:** 2026-06-16 08:06 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - What are we getting him this year? 🤔
+
+**From:** `Palin Founder of Satyn <info@satyn.fr>`  
+**Date:** 2026-06-16 07:30 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: What are we getting him this year? 🤔
+Summary: The email is an advertisement for "Satyn" which sells headwear and accessories, including durags and caps. They offer a 15% discount code [FATHER15](https://en.satyn.fr/discount/FVater15?) with the redirect to their website. The sender asks about gift sizing and color preferences without explicitly mentioning a deadline.
+Action Required: None
+Deadline: None
+Priority: High
+
+### 2/10 - Sugar Loaf Weekly Free Plays!
+
+**From:** `SugarLoaf Games <info@sugarloafgames.com>`  
+**Date:** 2026-06-16 06:51 AM Central Daylight Time  
+**Reasons:** Suspicious keyword: click here  
+**Summary:** Subject: Sugar Loaf Weekly Free Plays!
+Summary：Sugar Lo af is offering free play prizes including a Wallet Pass that can only be earned through your account, starting June 16th, 2026.
+
+Action Required：None
+Deadline：None
+Priority：High
+
+### 0/10 - Simply. AMAZING. It's time for our Father's Day deals
+
+**From:** `Best Buy <BestBuy@email.bestbuy.com>`  
+**Date:** 2026-06-16 06:05 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Retail promotion
+
+### 0/10 - The Morning: Will the deal work?
+
+**From:** `The New York Times <nytdirect@nytimes.com>`  
+**Date:** 2026-06-16 05:28 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: The New York Times - Morning
+
+Summary:
+The article discusses a potential deal involving the Los Angeles Clippers and its expansion to the Crypto.com Centre in Southern California, likely impacting real estate markets. It highlights the significance of this project for the city's economy and confirms that discussions are underway.
+
+Action Required: None
+
+Deadline: Time Not Explicitly Stated
+
+Priority: Medium
+
+### 0/10 - Anthropic's superpower 🤖, Roku acquired 💰, agentic code review 👨‍💻
+
+**From:** `TLDR <dan@tldrnewsletter.com>`  
+**Date:** 2026-06-16 05:21 AM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - Summer’s arrived & so has your ride
+
+**From:** `"Amtrak" <Amtrak@e-mail.amtrak.com>`  
+**Date:** 2026-06-15 11:41 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - One Piece Fanart guide
+
+**From:** `Pinterest <recommendations@discover.pinterest.com>`  
+**Date:** 2026-06-15 09:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Wallpaper email
+
+### 0/10 - A Team Member has offered a shift
+
+**From:** `Team.Live <no-reply@team.live>`  
+**Date:** 2026-06-15 09:20 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Shift at McDonald's Decatur-Water on Jun 21, 2026 - Crew Member Opportunity
+
+Summary: A team member is offering a crew member shift at McDonald’s Decatur-Water on June 21, 2026. Acceptance is required via login to your account or decline.
+
+Action Required:  Login to your account or decline the offer. Review availability based on your schedule.
+
+Deadline: None
+
+Priority: Low
+
+### 0/10 - Qowiyu, 15% OFF Deals + Kits ends tonight
+
+**From:** `MANSCAPED <noreply@news.manscaped.com>`  
+**Date:** 2026-06-15 07:23 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - You spent $14.95 at Lyft
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-15 06:08 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - Uncategorized transaction detected
+
+**From:** `Rocket Money <hello@email.rocketmoney.com>`  
+**Date:** 2026-06-15 05:38 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Uncategorized transaction detected
+Summary: We found an uncategorized transaction. Hi Qowiyu To keep your spending report accurate, please categorize a $58.82 transaction from June 15. Uncategorized Cash App*qowiyu A... June 15 $58.82 Email ipsum bounce message deliver recipient mailbox rate clickthrough tracking commercial. Month Day ( https://ablink.email.rocketmoney.com/ls/click?upn=u001.Wbl4MBulID6vBEMKdluSrcdCZCC74oQh2roWJ3-2FYzcHi-2F0-2BkqAZeJ5dMsIe-2Bv0qY3ka-2Bg0aSKip0Zv2fPAnJAtTKcfwpGzzDHoB5nz0FGVmP7T7Qc6cT-2BKc4C6VajTSC3plG_zK-2FUNUgnMLr-2FFeXGZU-2FtDq4MBulID6vBEMKdluSrcdCZCC74oQh2roWJ3-2FYzcHi-2F0-2BkqAZeJ5dMsIe-2Bv0qY3ka-2Bg0aSKip0Zv2fPAnJAtTKcfwpGzzDHoB5nz0FGVmP7T7Qc6cT-2BKc4C6VajTSC3plG_zK-2FUNUgnMLr-2FFeXGZU-2FtDq4MBulID6vBEMKdluSrcdCZCC74oQh2roWJ3-2FYzcHi-2F0-2BkqAZeJ5dMsIe-2Bv0qY3ka-2Bg0aSKip0Zv2fPAnJAtTKcfwpGzzDHoB5nz0FGVmP7T7Qc6cT-2BKc4C6VajTSC3plG_zK-2FUNUgnMLr-2FFeXGZU-2FtDq4MBulID6vBEMKdluSrcdCZCC74oQh2roWJ3-2FYzcHi-2F0-2BkqAZeJ5dMsIe-2Bv0qY3ka-2Bg0aSKip0Zv2fPAnJAtTKcfwpGzzDHoB5nz0FGVmP7T7Qc6cT-2BKc4C6VajTSC3plG_zK-2BUoWzJbQ1rJ9X41nU6hO2xK1Wf+2Hl7WlJ3I17x0l37Fh6S6sN-2FzU3Y18D0aQ04iP8tQo5ZkUw7dR8x9qCjXl9K00e3H354p1uI96qL1o4mY3wU2Gf55hA4LfM5D-2BIWJmr6iBQhA-3D-3D }
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - $30.00 payment to Grok xAI was unsuccessful again
+
+**From:** `Grok xAI <failed-payments+acct_1PksddHJohyvID2c@stripe.com>`  
+**Date:** 2026-06-15 05:01 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: $30.00 payment to Grok xAI was unsuccessful again
+Summary: A user encountered repeated failed payment attempts for their Grok x AI subscription with a Discover card ending in 2564. Payment methods need to be updated to continue access.
+Action Required: None
+Deadline: "None"
+Priority: High
+
+### 0/10 - Josiah Queen/WWE Summer Tour/Gary Allan
+
+**From:** `"SeatGeek" <events@seatgeek.com>`  
+**Date:** 2026-06-15 04:24 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Link-heavy marketing email
+
+### 0/10 - You spent $11.17 at Al Hamawi Roastery O
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-15 03:25 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - You spent $11.07 at Mochii Donut Orland Park
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-15 02:43 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Skipped LLM - Very little text content
+
+### 0/10 - Cash App Complaint [a1m-9565510-Pn00000S1WnK]
+
+**From:** `Cash App Complaints <complaints@cash.app>`  
+**Date:** 2026-06-15 02:26 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Cash App Complaint [a1m-9565510-Pn00000S1WnK]
+Summary: Cash App Dispute regarding fraudulent Buyvallore charge
+
+Action Required: None
+Deadline: None
+Priority: High
+
+### 0/10 - You borrowed $100
+
+**From:** `Cash App <cash@square.com>`  
+**Date:** 2026-06-15 01:59 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: You Borrowed Money
+
+Summary: A customer was shown a digital card while obtaining a loan, indicating they received a $100 loan amount.
+
+Action Required: None
+
+Deadline: None
+
+Priority: High
+
+### 0/10 - Up to 50% off at Sephora 💄
+
+**From:** `Klarna <noreply@hello.klarna.com>`  
+**Date:** 2026-06-15 01:46 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Up to 50% Off at Sephora 💄
+Summary: Major Summer Deals are on. Pay later with Klarna.
+‌ ‌⠨️‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌
+
+### 0/10 - Ventra Mobile Application - Order Receipt
+
+**From:** `"updates@ventrachicago.com" <updates@ventrachicago.com>`  
+**Date:** 2026-06-15 01:44 PM Central Daylight Time  
+**Reasons:** No rule hits  
+**Summary:** Subject: Ventra Mobile Application - Order Receipt
+
+Summary:  The email confirms an order for a Day Pass, totaling $7.50 with Visa payment and requires no response.
+
+Action Required: None
+
+Deadline: Currently Not Specified
+
+Priority: Medium
+
+
+
+---
+## Previous Batches
+
 ## 0/10 - You spent $10 at Chime
 **From:** `Cash App <cash@square.com>` 
 **Date:** Wed, 17 Jun 2026 18:30:02 +0000 
@@ -1242,4 +2350,3 @@ Deadline: None
 Priority: High
 
 ---
-
