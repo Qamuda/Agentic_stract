@@ -4,8 +4,8 @@ __pycache__/
 *.pyc
 processed.json
 *.log
-*.md
-**.md
+src/summary.md
+src/suspicious.md
 *.mp4
 **.mp4
 em_agent.py
