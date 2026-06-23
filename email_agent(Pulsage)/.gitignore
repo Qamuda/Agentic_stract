@@ -4,5 +4,7 @@ __pycache__/
 *.pyc
 processed.json
 *.log
-email_summary.md
-suspicious_emails.md
+*.md
+**.md
+*.mp4
+**.mp4
