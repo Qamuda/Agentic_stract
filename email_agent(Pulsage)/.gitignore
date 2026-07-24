@@ -2,7 +2,7 @@
 .venv/
 __pycache__/
 *.pyc
-processed.json
+processed_emails.json
 *.log
 src/summary.md
 src/suspicious.md

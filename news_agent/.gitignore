@@ -1,0 +1,7 @@
+.continue
+.venv/
+__pycache__/
+*.pyc
+*.log
+nws_agent.py
+.idea
